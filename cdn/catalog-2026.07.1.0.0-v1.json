@@ -1,0 +1,1931 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "minAppVersion": "2026.07.1.0.0",
+  "levels": [
+    {
+      "id": 1,
+      "starThresholds": [
+        8,
+        15,
+        19
+      ],
+      "counts": {
+        "circle": 2,
+        "spade": 1,
+        "square": 3
+      }
+    },
+    {
+      "id": 2,
+      "starThresholds": [
+        6,
+        10,
+        12
+      ],
+      "counts": {
+        "circle": 2,
+        "spade": 4,
+        "square": 1
+      }
+    },
+    {
+      "id": 3,
+      "starThresholds": [
+        8,
+        14,
+        18
+      ],
+      "counts": {
+        "circle": 1,
+        "spade": 2,
+        "square": 4
+      }
+    },
+    {
+      "id": 4,
+      "starThresholds": [
+        15,
+        25,
+        31
+      ],
+      "counts": {
+        "circle": 4,
+        "spade": 1,
+        "square": 3
+      }
+    },
+    {
+      "id": 5,
+      "starThresholds": [
+        13,
+        19,
+        24
+      ],
+      "counts": {
+        "circle": 1,
+        "spade": 3,
+        "square": 5
+      }
+    },
+    {
+      "id": 6,
+      "starThresholds": [
+        8,
+        15,
+        21
+      ],
+      "counts": {
+        "circle": 3,
+        "spade": 4,
+        "square": 2
+      }
+    },
+    {
+      "id": 7,
+      "starThresholds": [
+        13,
+        21,
+        27
+      ],
+      "counts": {
+        "circle": 2,
+        "spade": 4,
+        "square": 4
+      }
+    },
+    {
+      "id": 8,
+      "starThresholds": [
+        19,
+        28,
+        39
+      ],
+      "counts": {
+        "circle": 5,
+        "spade": 2,
+        "square": 3
+      }
+    },
+    {
+      "id": 9,
+      "starThresholds": [
+        15,
+        23,
+        30
+      ],
+      "counts": {
+        "circle": 2,
+        "spade": 5,
+        "square": 4
+      }
+    },
+    {
+      "id": 10,
+      "starThresholds": [
+        24,
+        32,
+        40
+      ],
+      "counts": {
+        "circle": 7,
+        "spade": 3,
+        "square": 2
+      }
+    },
+    {
+      "id": 11,
+      "starThresholds": [
+        15,
+        26,
+        32
+      ],
+      "counts": {
+        "circle": 4,
+        "spade": 5,
+        "square": 3
+      }
+    },
+    {
+      "id": 12,
+      "starThresholds": [
+        26,
+        34,
+        44
+      ],
+      "counts": {
+        "circle": 4,
+        "spade": 5,
+        "square": 4
+      }
+    },
+    {
+      "id": 13,
+      "starThresholds": [
+        10,
+        19,
+        24
+      ],
+      "counts": {
+        "circle": 3,
+        "heart": 2,
+        "spade": 2,
+        "square": 1
+      }
+    },
+    {
+      "id": 14,
+      "starThresholds": [
+        9,
+        15,
+        23
+      ],
+      "counts": {
+        "circle": 1,
+        "heart": 3,
+        "spade": 4,
+        "square": 1
+      }
+    },
+    {
+      "id": 15,
+      "starThresholds": [
+        18,
+        25,
+        34
+      ],
+      "counts": {
+        "circle": 3,
+        "heart": 3,
+        "spade": 2,
+        "square": 1
+      }
+    },
+    {
+      "id": 16,
+      "starThresholds": [
+        22,
+        31,
+        40
+      ],
+      "counts": {
+        "circle": 2,
+        "heart": 3,
+        "spade": 2,
+        "square": 3
+      }
+    },
+    {
+      "id": 17,
+      "starThresholds": [
+        13,
+        20,
+        24
+      ],
+      "counts": {
+        "circle": 2,
+        "heart": 2,
+        "spade": 6,
+        "square": 1
+      }
+    },
+    {
+      "id": 18,
+      "starThresholds": [
+        29,
+        41,
+        49
+      ],
+      "counts": {
+        "circle": 3,
+        "heart": 4,
+        "spade": 3,
+        "square": 2
+      }
+    },
+    {
+      "id": 19,
+      "starThresholds": [
+        26,
+        36,
+        45
+      ],
+      "counts": {
+        "circle": 2,
+        "heart": 2,
+        "spade": 3,
+        "square": 5
+      }
+    },
+    {
+      "id": 20,
+      "starThresholds": [
+        31,
+        45,
+        57
+      ],
+      "counts": {
+        "circle": 4,
+        "heart": 4,
+        "spade": 3,
+        "square": 2
+      }
+    },
+    {
+      "id": 21,
+      "starThresholds": [
+        31,
+        43,
+        50
+      ],
+      "counts": {
+        "circle": 4,
+        "heart": 2,
+        "spade": 5,
+        "square": 3
+      }
+    },
+    {
+      "id": 22,
+      "starThresholds": [
+        33,
+        42,
+        54
+      ],
+      "counts": {
+        "circle": 2,
+        "heart": 6,
+        "spade": 5,
+        "square": 2
+      }
+    },
+    {
+      "id": 23,
+      "starThresholds": [
+        36,
+        46,
+        56
+      ],
+      "counts": {
+        "circle": 5,
+        "heart": 3,
+        "spade": 5,
+        "square": 2
+      }
+    },
+    {
+      "id": 24,
+      "starThresholds": [
+        54,
+        65,
+        79
+      ],
+      "counts": {
+        "circle": 4,
+        "heart": 6,
+        "spade": 3,
+        "square": 3
+      }
+    },
+    {
+      "id": 25,
+      "starThresholds": [
+        26,
+        32,
+        43
+      ],
+      "counts": {
+        "circle": 6,
+        "heart": 1,
+        "spade": 1,
+        "square": 2
+      },
+      "rocks": [
+        {
+          "row": 4,
+          "col": 4,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "starThresholds": [
+        26,
+        38,
+        47
+      ],
+      "counts": {
+        "circle": 3,
+        "heart": 4,
+        "spade": 2,
+        "square": 2
+      }
+    },
+    {
+      "id": 27,
+      "starThresholds": [
+        21,
+        33,
+        43
+      ],
+      "counts": {
+        "circle": 3,
+        "heart": 5,
+        "spade": 4
+      }
+    },
+    {
+      "id": 28,
+      "starThresholds": [
+        -24,
+        -33,
+        -39
+      ],
+      "counts": {
+        "circle": 4,
+        "heart": 3,
+        "spade": 4,
+        "square": 1
+      },
+      "rocks": [
+        {
+          "row": 4,
+          "col": 1,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "starThresholds": [
+        30,
+        41,
+        50
+      ],
+      "counts": {
+        "circle": 3,
+        "heart": 3,
+        "spade": 4,
+        "square": 3
+      },
+      "rocks": [
+        {
+          "row": 0,
+          "col": 4,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "starThresholds": [
+        31,
+        45,
+        61
+      ],
+      "counts": {
+        "circle": 5,
+        "heart": 4,
+        "spade": 4,
+        "square": 1
+      },
+      "rocks": [
+        {
+          "row": 3,
+          "col": 1,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "starThresholds": [
+        58,
+        74,
+        82
+      ],
+      "counts": {
+        "circle": 5,
+        "heart": 1,
+        "spade": 1,
+        "square": 8
+      },
+      "rocks": [
+        {
+          "row": 3,
+          "col": 4,
+          "rockId": "simple"
+        },
+        {
+          "row": 5,
+          "col": 7,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "starThresholds": [
+        -7,
+        -16,
+        -24
+      ],
+      "counts": {
+        "circle": 4,
+        "heart": 5,
+        "spade": 2,
+        "square": 5
+      },
+      "rocks": [
+        {
+          "row": 1,
+          "col": 1,
+          "rockId": "simple"
+        },
+        {
+          "row": 2,
+          "col": 0,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "starThresholds": [
+        52,
+        66,
+        81
+      ],
+      "counts": {
+        "circle": 5,
+        "heart": 4,
+        "spade": 4,
+        "square": 4
+      },
+      "rocks": [
+        {
+          "row": 3,
+          "col": 2,
+          "rockId": "simple"
+        },
+        {
+          "row": 6,
+          "col": 3,
+          "rockId": "simple"
+        },
+        {
+          "row": 1,
+          "col": 4,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "starThresholds": [
+        52,
+        68,
+        78
+      ],
+      "counts": {
+        "circle": 8,
+        "heart": 4,
+        "spade": 4,
+        "square": 1
+      },
+      "rocks": [
+        {
+          "row": 0,
+          "col": 2,
+          "rockId": "simple"
+        },
+        {
+          "row": 3,
+          "col": 2,
+          "rockId": "simple"
+        },
+        {
+          "row": 6,
+          "col": 0,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "starThresholds": [
+        60,
+        76,
+        89
+      ],
+      "counts": {
+        "circle": 5,
+        "heart": 6,
+        "spade": 4,
+        "square": 3
+      },
+      "rocks": [
+        {
+          "row": 0,
+          "col": 7,
+          "rockId": "simple"
+        },
+        {
+          "row": 1,
+          "col": 3,
+          "rockId": "simple"
+        },
+        {
+          "row": 3,
+          "col": 1,
+          "rockId": "simple"
+        },
+        {
+          "row": 2,
+          "col": 7,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "starThresholds": [
+        64,
+        75,
+        90
+      ],
+      "counts": {
+        "circle": 4,
+        "heart": 4,
+        "spade": 4,
+        "square": 7
+      },
+      "rocks": [
+        {
+          "row": 7,
+          "col": 5,
+          "rockId": "simple"
+        },
+        {
+          "row": 7,
+          "col": 7,
+          "rockId": "simple"
+        },
+        {
+          "row": 6,
+          "col": 0,
+          "rockId": "simple"
+        },
+        {
+          "row": 5,
+          "col": 6,
+          "rockId": "simple"
+        },
+        {
+          "row": 0,
+          "col": 6,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "starThresholds": [
+        16,
+        25,
+        32
+      ],
+      "counts": {
+        "heart": 1,
+        "triangle": 4,
+        "spade": 4,
+        "square": 3
+      },
+      "boardShape": "cross"
+    },
+    {
+      "id": 38,
+      "starThresholds": [
+        27,
+        37,
+        47
+      ],
+      "counts": {
+        "circle": 2,
+        "heart": 3,
+        "triangle": 3,
+        "spade": 2,
+        "square": 3
+      },
+      "boardShape": "cross"
+    },
+    {
+      "id": 39,
+      "starThresholds": [
+        30,
+        43,
+        52
+      ],
+      "counts": {
+        "circle": 5,
+        "heart": 3,
+        "triangle": 5,
+        "spade": 1
+      },
+      "boardShape": "cross",
+      "rocks": [
+        {
+          "row": 3,
+          "col": 7,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "starThresholds": [
+        -31,
+        -40,
+        -46
+      ],
+      "counts": {
+        "circle": 5,
+        "heart": 3,
+        "triangle": 2,
+        "spade": 4,
+        "square": 1
+      },
+      "boardShape": "cross",
+      "rocks": [
+        {
+          "row": 4,
+          "col": 4,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "starThresholds": [
+        41,
+        57,
+        71
+      ],
+      "counts": {
+        "circle": 4,
+        "heart": 4,
+        "triangle": 1,
+        "spade": 4,
+        "square": 3
+      },
+      "rocks": [
+        {
+          "row": 3,
+          "col": 3,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "starThresholds": [
+        36,
+        50,
+        60
+      ],
+      "counts": {
+        "circle": 4,
+        "heart": 2,
+        "triangle": 5,
+        "spade": 4,
+        "square": 2
+      },
+      "rocks": [
+        {
+          "row": 3,
+          "col": 1,
+          "rockId": "simple"
+        },
+        {
+          "row": 7,
+          "col": 0,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "starThresholds": [
+        49,
+        60,
+        71
+      ],
+      "counts": {
+        "circle": 3,
+        "heart": 4,
+        "triangle": 3,
+        "spade": 2,
+        "square": 5
+      },
+      "boardShape": "cross",
+      "rocks": [
+        {
+          "row": 5,
+          "col": 3,
+          "rockId": "simple"
+        },
+        {
+          "row": 4,
+          "col": 4,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "starThresholds": [
+        -23,
+        -33,
+        -40
+      ],
+      "counts": {
+        "circle": 5,
+        "heart": 5,
+        "triangle": 3,
+        "spade": 2,
+        "square": 3
+      },
+      "rocks": [
+        {
+          "row": 5,
+          "col": 4,
+          "rockId": "simple"
+        },
+        {
+          "row": 3,
+          "col": 1,
+          "rockId": "simple"
+        },
+        {
+          "row": 2,
+          "col": 5,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "starThresholds": [
+        48,
+        69,
+        82
+      ],
+      "counts": {
+        "circle": 4,
+        "heart": 3,
+        "triangle": 3,
+        "spade": 3,
+        "square": 6
+      },
+      "boardShape": "cross",
+      "rocks": [
+        {
+          "row": 5,
+          "col": 0,
+          "rockId": "simple"
+        },
+        {
+          "row": 3,
+          "col": 2,
+          "rockId": "simple"
+        },
+        {
+          "row": 1,
+          "col": 2,
+          "rockId": "simple"
+        },
+        {
+          "row": 2,
+          "col": 3,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "starThresholds": [
+        63,
+        78,
+        90
+      ],
+      "counts": {
+        "circle": 3,
+        "heart": 5,
+        "triangle": 3,
+        "spade": 2,
+        "square": 7
+      },
+      "rocks": [
+        {
+          "row": 4,
+          "col": 0,
+          "rockId": "simple"
+        },
+        {
+          "row": 4,
+          "col": 5,
+          "rockId": "simple"
+        },
+        {
+          "row": 5,
+          "col": 2,
+          "rockId": "simple"
+        },
+        {
+          "row": 3,
+          "col": 6,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "starThresholds": [
+        78,
+        92,
+        105
+      ],
+      "counts": {
+        "circle": 5,
+        "heart": 4,
+        "triangle": 3,
+        "spade": 2,
+        "square": 7
+      },
+      "rocks": [
+        {
+          "row": 4,
+          "col": 6,
+          "rockId": "simple"
+        },
+        {
+          "row": 6,
+          "col": 5,
+          "rockId": "simple"
+        },
+        {
+          "row": 0,
+          "col": 4,
+          "rockId": "simple"
+        },
+        {
+          "row": 4,
+          "col": 4,
+          "rockId": "simple"
+        },
+        {
+          "row": 7,
+          "col": 1,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "starThresholds": [
+        52,
+        67,
+        79
+      ],
+      "counts": {
+        "circle": 2,
+        "heart": 6,
+        "triangle": 3,
+        "spade": 7,
+        "square": 4
+      },
+      "boardShape": "cross",
+      "rocks": [
+        {
+          "row": 3,
+          "col": 5,
+          "rockId": "simple"
+        },
+        {
+          "row": 7,
+          "col": 5,
+          "rockId": "simple"
+        },
+        {
+          "row": 6,
+          "col": 4,
+          "rockId": "simple"
+        },
+        {
+          "row": 5,
+          "col": 0,
+          "rockId": "simple"
+        },
+        {
+          "row": 7,
+          "col": 3,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "starThresholds": [
+        52,
+        66,
+        76
+      ],
+      "counts": {
+        "circle": 3,
+        "heart": 5,
+        "triangle": 1,
+        "square": 5
+      }
+    },
+    {
+      "id": 50,
+      "starThresholds": [
+        34,
+        46,
+        53
+      ],
+      "counts": {
+        "circle": 1,
+        "heart": 4,
+        "triangle": 2,
+        "spade": 3,
+        "square": 5
+      },
+      "boardShape": "cross"
+    },
+    {
+      "id": 51,
+      "starThresholds": [
+        52,
+        65,
+        73
+      ],
+      "counts": {
+        "circle": 2,
+        "heart": 6,
+        "triangle": 4,
+        "square": 4
+      },
+      "boardShape": "cross",
+      "rocks": [
+        {
+          "row": 5,
+          "col": 0,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "starThresholds": [
+        -33,
+        -43,
+        -50
+      ],
+      "counts": {
+        "circle": 4,
+        "heart": 3,
+        "triangle": 5,
+        "spade": 4,
+        "square": 1
+      },
+      "rocks": [
+        {
+          "row": 6,
+          "col": 7,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "starThresholds": [
+        60,
+        74,
+        87
+      ],
+      "counts": {
+        "circle": 8,
+        "heart": 3,
+        "triangle": 4,
+        "spade": 1,
+        "square": 2
+      },
+      "boardShape": "cross",
+      "rocks": [
+        {
+          "row": 7,
+          "col": 4,
+          "rockId": "simple"
+        },
+        {
+          "row": 3,
+          "col": 4,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "starThresholds": [
+        40,
+        52,
+        68
+      ],
+      "counts": {
+        "circle": 3,
+        "heart": 3,
+        "triangle": 4,
+        "spade": 6,
+        "square": 3
+      },
+      "rocks": [
+        {
+          "row": 4,
+          "col": 7,
+          "rockId": "simple"
+        },
+        {
+          "row": 6,
+          "col": 0,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "starThresholds": [
+        71,
+        85,
+        99
+      ],
+      "counts": {
+        "circle": 3,
+        "heart": 6,
+        "triangle": 2,
+        "spade": 2,
+        "square": 7
+      },
+      "rocks": [
+        {
+          "row": 7,
+          "col": 5,
+          "rockId": "simple"
+        },
+        {
+          "row": 7,
+          "col": 0,
+          "rockId": "simple"
+        },
+        {
+          "row": 1,
+          "col": 5,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "starThresholds": [
+        -44,
+        -54,
+        -64
+      ],
+      "counts": {
+        "circle": 5,
+        "heart": 4,
+        "triangle": 6,
+        "spade": 4,
+        "square": 2
+      },
+      "boardShape": "cross",
+      "rocks": [
+        {
+          "row": 2,
+          "col": 1,
+          "rockId": "simple"
+        },
+        {
+          "row": 5,
+          "col": 7,
+          "rockId": "simple"
+        },
+        {
+          "row": 2,
+          "col": 4,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "starThresholds": [
+        68,
+        87,
+        100
+      ],
+      "counts": {
+        "circle": 5,
+        "heart": 4,
+        "triangle": 2,
+        "spade": 5,
+        "square": 6
+      },
+      "rocks": [
+        {
+          "row": 1,
+          "col": 4,
+          "rockId": "simple"
+        },
+        {
+          "row": 0,
+          "col": 2,
+          "rockId": "simple"
+        },
+        {
+          "row": 7,
+          "col": 5,
+          "rockId": "simple"
+        },
+        {
+          "row": 3,
+          "col": 6,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "starThresholds": [
+        70,
+        90,
+        102
+      ],
+      "counts": {
+        "circle": 6,
+        "heart": 4,
+        "triangle": 4,
+        "spade": 4,
+        "square": 5
+      },
+      "boardShape": "cross",
+      "rocks": [
+        {
+          "row": 1,
+          "col": 4,
+          "rockId": "simple"
+        },
+        {
+          "row": 5,
+          "col": 4,
+          "rockId": "simple"
+        },
+        {
+          "row": 3,
+          "col": 3,
+          "rockId": "simple"
+        },
+        {
+          "row": 2,
+          "col": 1,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "starThresholds": [
+        79,
+        93,
+        108
+      ],
+      "counts": {
+        "circle": 6,
+        "heart": 4,
+        "triangle": 7,
+        "spade": 3,
+        "square": 4
+      },
+      "rocks": [
+        {
+          "row": 2,
+          "col": 2,
+          "rockId": "simple"
+        },
+        {
+          "row": 5,
+          "col": 3,
+          "rockId": "simple"
+        },
+        {
+          "row": 3,
+          "col": 5,
+          "rockId": "simple"
+        },
+        {
+          "row": 3,
+          "col": 1,
+          "rockId": "simple"
+        },
+        {
+          "row": 0,
+          "col": 3,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "starThresholds": [
+        82,
+        102,
+        118
+      ],
+      "counts": {
+        "circle": 4,
+        "heart": 5,
+        "triangle": 6,
+        "spade": 4,
+        "square": 6
+      },
+      "rocks": [
+        {
+          "row": 2,
+          "col": 0,
+          "rockId": "simple"
+        },
+        {
+          "row": 4,
+          "col": 7,
+          "rockId": "simple"
+        },
+        {
+          "row": 0,
+          "col": 3,
+          "rockId": "simple"
+        },
+        {
+          "row": 0,
+          "col": 5,
+          "rockId": "simple"
+        },
+        {
+          "row": 0,
+          "col": 7,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "starThresholds": [
+        42,
+        54,
+        66
+      ],
+      "counts": {
+        "circle": 5,
+        "heart": 2,
+        "spade": 5,
+        "square": 4
+      },
+      "boardShape": "cross",
+      "rocks": [
+        {
+          "row": 4,
+          "col": 5,
+          "rockId": "bonus"
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "starThresholds": [
+        36,
+        46,
+        56
+      ],
+      "counts": {
+        "heart": 5,
+        "triangle": 4,
+        "spade": 3,
+        "square": 5
+      }
+    },
+    {
+      "id": 63,
+      "starThresholds": [
+        56,
+        70,
+        84
+      ],
+      "counts": {
+        "circle": 4,
+        "heart": 4,
+        "triangle": 2,
+        "spade": 3,
+        "square": 5
+      },
+      "boardShape": "cross",
+      "rocks": [
+        {
+          "row": 5,
+          "col": 5,
+          "rockId": "bonus"
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "starThresholds": [
+        -39,
+        -48,
+        -59
+      ],
+      "counts": {
+        "circle": 3,
+        "heart": 4,
+        "triangle": 6,
+        "spade": 3,
+        "square": 3
+      },
+      "boardShape": "cross",
+      "rocks": [
+        {
+          "row": 3,
+          "col": 3,
+          "rockId": "bonus"
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "starThresholds": [
+        61,
+        78,
+        89
+      ],
+      "counts": {
+        "circle": 2,
+        "heart": 6,
+        "triangle": 1,
+        "spade": 4,
+        "square": 7
+      },
+      "rocks": [
+        {
+          "row": 0,
+          "col": 4,
+          "rockId": "simple"
+        },
+        {
+          "row": 6,
+          "col": 3,
+          "rockId": "bonus"
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "starThresholds": [
+        58,
+        70,
+        82
+      ],
+      "counts": {
+        "circle": 3,
+        "heart": 4,
+        "triangle": 4,
+        "spade": 6,
+        "square": 4
+      },
+      "boardShape": "cross",
+      "rocks": [
+        {
+          "row": 6,
+          "col": 3,
+          "rockId": "simple"
+        },
+        {
+          "row": 4,
+          "col": 6,
+          "rockId": "bonus"
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "starThresholds": [
+        76,
+        87,
+        100
+      ],
+      "counts": {
+        "circle": 4,
+        "heart": 5,
+        "triangle": 2,
+        "spade": 7,
+        "square": 5
+      },
+      "rocks": [
+        {
+          "row": 1,
+          "col": 6,
+          "rockId": "bonus"
+        },
+        {
+          "row": 0,
+          "col": 5,
+          "rockId": "simple"
+        },
+        {
+          "row": 2,
+          "col": 3,
+          "rockId": "bonus"
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "starThresholds": [
+        -53,
+        -68,
+        -77
+      ],
+      "counts": {
+        "circle": 5,
+        "heart": 3,
+        "triangle": 6,
+        "spade": 5,
+        "square": 5
+      },
+      "boardShape": "cross",
+      "rocks": [
+        {
+          "row": 4,
+          "col": 3,
+          "rockId": "simple"
+        },
+        {
+          "row": 3,
+          "col": 1,
+          "rockId": "bonus"
+        },
+        {
+          "row": 5,
+          "col": 0,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "starThresholds": [
+        66,
+        88,
+        101
+      ],
+      "counts": {
+        "circle": 4,
+        "heart": 2,
+        "triangle": 5,
+        "spade": 6,
+        "square": 8
+      },
+      "boardShape": "cross",
+      "rocks": [
+        {
+          "row": 2,
+          "col": 5,
+          "rockId": "simple"
+        },
+        {
+          "row": 2,
+          "col": 3,
+          "rockId": "bonus"
+        },
+        {
+          "row": 2,
+          "col": 0,
+          "rockId": "simple"
+        },
+        {
+          "row": 4,
+          "col": 0,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "starThresholds": [
+        103,
+        130,
+        144
+      ],
+      "counts": {
+        "circle": 6,
+        "heart": 7,
+        "triangle": 4,
+        "spade": 4,
+        "square": 5
+      },
+      "rocks": [
+        {
+          "row": 0,
+          "col": 2,
+          "rockId": "simple"
+        },
+        {
+          "row": 4,
+          "col": 6,
+          "rockId": "bonus"
+        },
+        {
+          "row": 3,
+          "col": 2,
+          "rockId": "bonus"
+        },
+        {
+          "row": 1,
+          "col": 5,
+          "rockId": "bonus"
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "starThresholds": [
+        89,
+        110,
+        122
+      ],
+      "counts": {
+        "circle": 8,
+        "heart": 3,
+        "triangle": 9,
+        "spade": 3,
+        "square": 4
+      },
+      "boardShape": "cross",
+      "rocks": [
+        {
+          "row": 3,
+          "col": 2,
+          "rockId": "bonus"
+        },
+        {
+          "row": 3,
+          "col": 7,
+          "rockId": "simple"
+        },
+        {
+          "row": 2,
+          "col": 1,
+          "rockId": "simple"
+        },
+        {
+          "row": 6,
+          "col": 3,
+          "rockId": "simple"
+        },
+        {
+          "row": 1,
+          "col": 5,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "starThresholds": [
+        91,
+        106,
+        122
+      ],
+      "counts": {
+        "circle": 2,
+        "heart": 5,
+        "triangle": 2,
+        "spade": 7,
+        "square": 12
+      },
+      "rocks": [
+        {
+          "row": 6,
+          "col": 6,
+          "rockId": "bonus"
+        },
+        {
+          "row": 6,
+          "col": 4,
+          "rockId": "bonus"
+        },
+        {
+          "row": 1,
+          "col": 4,
+          "rockId": "bonus"
+        },
+        {
+          "row": 1,
+          "col": 6,
+          "rockId": "bonus"
+        },
+        {
+          "row": 5,
+          "col": 3,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "starThresholds": [
+        35,
+        51,
+        65
+      ],
+      "counts": {
+        "circle": 6,
+        "heart": 3,
+        "triangle": 4,
+        "spade": 3,
+        "square": 2
+      },
+      "boardShape": "plus"
+    },
+    {
+      "id": 74,
+      "starThresholds": [
+        51,
+        68,
+        79
+      ],
+      "counts": {
+        "circle": 5,
+        "heart": 3,
+        "triangle": 2,
+        "spade": 4,
+        "square": 5
+      },
+      "boardShape": "plus"
+    },
+    {
+      "id": 75,
+      "starThresholds": [
+        40,
+        53,
+        65
+      ],
+      "counts": {
+        "circle": 1,
+        "heart": 5,
+        "triangle": 6,
+        "spade": 4,
+        "square": 4
+      },
+      "boardShape": "plus",
+      "rocks": [
+        {
+          "row": 4,
+          "col": 2,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "starThresholds": [
+        -55,
+        -68,
+        -78
+      ],
+      "counts": {
+        "circle": 3,
+        "heart": 5,
+        "triangle": 4,
+        "spade": 5,
+        "square": 5
+      },
+      "boardShape": "cross",
+      "rocks": [
+        {
+          "row": 0,
+          "col": 2,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "starThresholds": [
+        54,
+        76,
+        87
+      ],
+      "counts": {
+        "circle": 5,
+        "heart": 2,
+        "triangle": 5,
+        "spade": 3,
+        "square": 8
+      },
+      "boardShape": "plus",
+      "rocks": [
+        {
+          "row": 2,
+          "col": 3,
+          "rockId": "bonus"
+        },
+        {
+          "row": 3,
+          "col": 5,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "starThresholds": [
+        86,
+        101,
+        118
+      ],
+      "counts": {
+        "circle": 5,
+        "heart": 8,
+        "triangle": 4,
+        "spade": 5,
+        "square": 2
+      },
+      "boardShape": "cross",
+      "rocks": [
+        {
+          "row": 3,
+          "col": 2,
+          "rockId": "bonus"
+        },
+        {
+          "row": 5,
+          "col": 1,
+          "rockId": "bonus"
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "starThresholds": [
+        73,
+        91,
+        103
+      ],
+      "counts": {
+        "circle": 7,
+        "heart": 6,
+        "triangle": 3,
+        "spade": 4,
+        "square": 5
+      },
+      "boardShape": "plus",
+      "rocks": [
+        {
+          "row": 3,
+          "col": 1,
+          "rockId": "bonus"
+        },
+        {
+          "row": 4,
+          "col": 6,
+          "rockId": "bonus"
+        },
+        {
+          "row": 5,
+          "col": 4,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "starThresholds": [
+        -53,
+        -67,
+        -79
+      ],
+      "counts": {
+        "circle": 4,
+        "heart": 7,
+        "triangle": 5,
+        "spade": 4,
+        "square": 6
+      },
+      "rocks": [
+        {
+          "row": 0,
+          "col": 4,
+          "rockId": "simple"
+        },
+        {
+          "row": 4,
+          "col": 1,
+          "rockId": "bonus"
+        },
+        {
+          "row": 2,
+          "col": 3,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "starThresholds": [
+        63,
+        79,
+        95
+      ],
+      "counts": {
+        "circle": 2,
+        "heart": 2,
+        "square": 2,
+        "cornerDownRight": 4,
+        "hourglass": 4,
+        "infinity": 4
+      },
+      "rocks": [
+        {
+          "row": 3,
+          "col": 3,
+          "rockId": "ice"
+        },
+        {
+          "row": 1,
+          "col": 2,
+          "rockId": "twin"
+        },
+        {
+          "row": 6,
+          "col": 5,
+          "rockId": "twin"
+        },
+        {
+          "row": 2,
+          "col": 5,
+          "rockId": "bonus"
+        }
+      ],
+      "skipUnlockChecks": true
+    }
+  ]
+}
