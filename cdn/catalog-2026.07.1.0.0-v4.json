@@ -1,0 +1,7326 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 4,
+  "minAppVersion": "2026.07.1.0.0",
+  "levels": [
+    {
+      "id": 1,
+      "starThresholds": [
+        15,
+        20,
+        22
+      ],
+      "counts": {
+        "circle": 1,
+        "heart": 1,
+        "spade": 1,
+        "square": 3
+      },
+      "boardSize": 4
+    },
+    {
+      "id": 2,
+      "starThresholds": [
+        10,
+        15,
+        16
+      ],
+      "counts": {
+        "circle": 1,
+        "heart": 1,
+        "spade": 3,
+        "square": 2
+      },
+      "boardSize": 4
+    },
+    {
+      "id": 3,
+      "starThresholds": [
+        22,
+        28,
+        32
+      ],
+      "counts": {
+        "circle": 2,
+        "heart": 2,
+        "spade": 1,
+        "square": 2
+      },
+      "boardSize": 4
+    },
+    {
+      "id": 4,
+      "starThresholds": [
+        11,
+        17,
+        20
+      ],
+      "counts": {
+        "circle": 1,
+        "heart": 1,
+        "spade": 4,
+        "square": 2
+      },
+      "boardSize": 6
+    },
+    {
+      "id": 5,
+      "starThresholds": [
+        26,
+        35,
+        42
+      ],
+      "counts": {
+        "circle": 3,
+        "heart": 2,
+        "spade": 2,
+        "square": 2
+      },
+      "boardSize": 6
+    },
+    {
+      "id": 6,
+      "starThresholds": [
+        30,
+        40,
+        44
+      ],
+      "counts": {
+        "circle": 2,
+        "heart": 1,
+        "spade": 1,
+        "square": 5
+      },
+      "boardSize": 6
+    },
+    {
+      "id": 7,
+      "starThresholds": [
+        27,
+        38,
+        42
+      ],
+      "counts": {
+        "circle": 1,
+        "heart": 3,
+        "spade": 2,
+        "square": 4
+      },
+      "boardSize": 6
+    },
+    {
+      "id": 8,
+      "starThresholds": [
+        25,
+        35,
+        40
+      ],
+      "counts": {
+        "circle": 3,
+        "heart": 1,
+        "spade": 3,
+        "square": 3
+      }
+    },
+    {
+      "id": 9,
+      "starThresholds": [
+        37,
+        47,
+        53
+      ],
+      "counts": {
+        "circle": 3,
+        "heart": 2,
+        "spade": 2,
+        "square": 4
+      }
+    },
+    {
+      "id": 10,
+      "starThresholds": [
+        24,
+        37,
+        44
+      ],
+      "counts": {
+        "circle": 4,
+        "heart": 2,
+        "spade": 5,
+        "square": 1
+      }
+    },
+    {
+      "id": 11,
+      "starThresholds": [
+        23,
+        32,
+        37
+      ],
+      "counts": {
+        "circle": 1,
+        "heart": 3,
+        "spade": 6,
+        "square": 2
+      }
+    },
+    {
+      "id": 12,
+      "starThresholds": [
+        48,
+        61,
+        69
+      ],
+      "counts": {
+        "circle": 3,
+        "heart": 2,
+        "spade": 2,
+        "square": 6
+      }
+    },
+    {
+      "id": 13,
+      "starThresholds": [
+        14,
+        22,
+        25
+      ],
+      "counts": {
+        "circle": 2,
+        "heart": 2,
+        "triangle": 2,
+        "spade": 2
+      }
+    },
+    {
+      "id": 14,
+      "starThresholds": [
+        17,
+        23,
+        26
+      ],
+      "counts": {
+        "circle": 2,
+        "heart": 2,
+        "triangle": 2,
+        "spade": 2,
+        "square": 1
+      },
+      "boardSize": 4
+    },
+    {
+      "id": 15,
+      "starThresholds": [
+        20,
+        28,
+        32
+      ],
+      "counts": {
+        "circle": 2,
+        "heart": 2,
+        "triangle": 3,
+        "spade": 1,
+        "square": 1
+      }
+    },
+    {
+      "id": 16,
+      "starThresholds": [
+        27,
+        38,
+        45
+      ],
+      "counts": {
+        "circle": 3,
+        "heart": 2,
+        "triangle": 1,
+        "spade": 2,
+        "square": 2
+      }
+    },
+    {
+      "id": 17,
+      "starThresholds": [
+        29,
+        40,
+        45
+      ],
+      "counts": {
+        "circle": 2,
+        "heart": 2,
+        "triangle": 2,
+        "spade": 2,
+        "square": 3
+      }
+    },
+    {
+      "id": 18,
+      "starThresholds": [
+        33,
+        46,
+        52
+      ],
+      "counts": {
+        "circle": 2,
+        "heart": 3,
+        "triangle": 4,
+        "spade": 1,
+        "square": 2
+      }
+    },
+    {
+      "id": 19,
+      "starThresholds": [
+        27,
+        39,
+        46
+      ],
+      "counts": {
+        "circle": 2,
+        "heart": 2,
+        "triangle": 1,
+        "spade": 4,
+        "square": 3
+      },
+      "boardSize": 6
+    },
+    {
+      "id": 20,
+      "starThresholds": [
+        36,
+        49,
+        54
+      ],
+      "counts": {
+        "circle": 3,
+        "heart": 2,
+        "triangle": 6,
+        "square": 2
+      }
+    },
+    {
+      "id": 21,
+      "starThresholds": [
+        33,
+        43,
+        48
+      ],
+      "counts": {
+        "heart": 5,
+        "triangle": 1,
+        "spade": 4,
+        "square": 4
+      },
+      "boardSize": 6
+    },
+    {
+      "id": 22,
+      "starThresholds": [
+        52,
+        67,
+        75
+      ],
+      "counts": {
+        "circle": 3,
+        "heart": 5,
+        "triangle": 3,
+        "spade": 2,
+        "square": 2
+      }
+    },
+    {
+      "id": 23,
+      "starThresholds": [
+        33,
+        45,
+        52
+      ],
+      "counts": {
+        "circle": 4,
+        "heart": 2,
+        "triangle": 3,
+        "spade": 3,
+        "square": 3
+      },
+      "boardSize": 4
+    },
+    {
+      "id": 24,
+      "starThresholds": [
+        35,
+        47,
+        52
+      ],
+      "counts": {
+        "circle": 7,
+        "triangle": 3,
+        "spade": 5,
+        "square": 1
+      }
+    },
+    {
+      "id": 25,
+      "starThresholds": [
+        22,
+        31,
+        35
+      ],
+      "counts": {
+        "circle": 1,
+        "heart": 1,
+        "triangle": 4,
+        "spade": 1,
+        "square": 3
+      },
+      "rocks": [
+        {
+          "row": 5,
+          "col": 6,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "starThresholds": [
+        32,
+        41,
+        45
+      ],
+      "counts": {
+        "circle": 1,
+        "heart": 2,
+        "triangle": 1,
+        "spade": 1,
+        "square": 6
+      },
+      "boardSize": 6,
+      "rocks": [
+        {
+          "row": 1,
+          "col": 0,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "starThresholds": [
+        31,
+        44,
+        51
+      ],
+      "counts": {
+        "circle": 4,
+        "heart": 2,
+        "spade": 4,
+        "square": 2
+      },
+      "rocks": [
+        {
+          "row": 6,
+          "col": 7,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "starThresholds": [
+        -20,
+        -30,
+        -36
+      ],
+      "counts": {
+        "circle": 2,
+        "heart": 4,
+        "triangle": 1,
+        "spade": 2,
+        "square": 3
+      },
+      "boardSize": 6,
+      "rocks": [
+        {
+          "row": 0,
+          "col": 1,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "starThresholds": [
+        30,
+        42,
+        48
+      ],
+      "counts": {
+        "circle": 2,
+        "heart": 2,
+        "triangle": 3,
+        "spade": 4,
+        "square": 2
+      },
+      "rocks": [
+        {
+          "row": 5,
+          "col": 2,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "starThresholds": [
+        23,
+        33,
+        39
+      ],
+      "counts": {
+        "circle": 3,
+        "heart": 1,
+        "triangle": 3,
+        "spade": 4,
+        "square": 3
+      },
+      "boardSize": 4,
+      "rocks": [
+        {
+          "row": 2,
+          "col": 3,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "starThresholds": [
+        59,
+        73,
+        80
+      ],
+      "counts": {
+        "circle": 4,
+        "heart": 4,
+        "triangle": 3,
+        "spade": 1,
+        "square": 3
+      },
+      "rocks": [
+        {
+          "row": 4,
+          "col": 0,
+          "rockId": "simple"
+        },
+        {
+          "row": 2,
+          "col": 6,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "starThresholds": [
+        -28,
+        -40,
+        -46
+      ],
+      "counts": {
+        "circle": 3,
+        "heart": 4,
+        "triangle": 2,
+        "spade": 2,
+        "square": 5
+      },
+      "rocks": [
+        {
+          "row": 2,
+          "col": 0,
+          "rockId": "simple"
+        },
+        {
+          "row": 7,
+          "col": 5,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "starThresholds": [
+        64,
+        78,
+        86
+      ],
+      "counts": {
+        "circle": 6,
+        "heart": 1,
+        "triangle": 3,
+        "spade": 2,
+        "square": 5
+      },
+      "boardSize": 6,
+      "rocks": [
+        {
+          "row": 0,
+          "col": 3,
+          "rockId": "simple"
+        },
+        {
+          "row": 1,
+          "col": 2,
+          "rockId": "simple"
+        },
+        {
+          "row": 0,
+          "col": 1,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "starThresholds": [
+        63,
+        81,
+        88
+      ],
+      "counts": {
+        "circle": 5,
+        "heart": 3,
+        "triangle": 3,
+        "spade": 2,
+        "square": 4
+      },
+      "rocks": [
+        {
+          "row": 6,
+          "col": 1,
+          "rockId": "simple"
+        },
+        {
+          "row": 6,
+          "col": 6,
+          "rockId": "simple"
+        },
+        {
+          "row": 2,
+          "col": 7,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "starThresholds": [
+        54,
+        70,
+        76
+      ],
+      "counts": {
+        "circle": 7,
+        "triangle": 5,
+        "spade": 2,
+        "square": 4
+      },
+      "boardSize": 6,
+      "rocks": [
+        {
+          "row": 1,
+          "col": 0,
+          "rockId": "simple"
+        },
+        {
+          "row": 2,
+          "col": 3,
+          "rockId": "simple"
+        },
+        {
+          "row": 2,
+          "col": 5,
+          "rockId": "simple"
+        },
+        {
+          "row": 5,
+          "col": 4,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "starThresholds": [
+        65,
+        82,
+        91
+      ],
+      "counts": {
+        "circle": 3,
+        "heart": 5,
+        "triangle": 4,
+        "spade": 4,
+        "square": 3
+      },
+      "rocks": [
+        {
+          "row": 7,
+          "col": 2,
+          "rockId": "simple"
+        },
+        {
+          "row": 0,
+          "col": 6,
+          "rockId": "simple"
+        },
+        {
+          "row": 7,
+          "col": 6,
+          "rockId": "simple"
+        },
+        {
+          "row": 4,
+          "col": 1,
+          "rockId": "simple"
+        },
+        {
+          "row": 3,
+          "col": 5,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "starThresholds": [
+        37,
+        51,
+        59
+      ],
+      "counts": {
+        "circle": 2,
+        "heart": 1,
+        "triangle": 1,
+        "spade": 3,
+        "square": 1,
+        "play": 4
+      },
+      "boardShape": "cross"
+    },
+    {
+      "id": 38,
+      "starThresholds": [
+        39,
+        50,
+        58
+      ],
+      "counts": {
+        "circle": 1,
+        "heart": 3,
+        "triangle": 3,
+        "spade": 1,
+        "square": 3,
+        "play": 2
+      },
+      "boardShape": "cross"
+    },
+    {
+      "id": 39,
+      "starThresholds": [
+        56,
+        70,
+        76
+      ],
+      "counts": {
+        "circle": 2,
+        "heart": 3,
+        "triangle": 2,
+        "spade": 1,
+        "square": 3,
+        "play": 3
+      },
+      "boardShape": "cross",
+      "rocks": [
+        {
+          "row": 0,
+          "col": 4,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "starThresholds": [
+        -34,
+        -43,
+        -47
+      ],
+      "counts": {
+        "circle": 1,
+        "triangle": 4,
+        "spade": 3,
+        "square": 4,
+        "play": 3
+      },
+      "boardShape": "cross",
+      "rocks": [
+        {
+          "row": 5,
+          "col": 6,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "starThresholds": [
+        62,
+        79,
+        89
+      ],
+      "counts": {
+        "circle": 3,
+        "heart": 2,
+        "triangle": 2,
+        "spade": 3,
+        "square": 2,
+        "play": 4
+      },
+      "rocks": [
+        {
+          "row": 2,
+          "col": 7,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "starThresholds": [
+        61,
+        79,
+        90
+      ],
+      "counts": {
+        "circle": 1,
+        "heart": 2,
+        "triangle": 3,
+        "spade": 2,
+        "square": 4,
+        "play": 5
+      },
+      "boardSize": 6,
+      "rocks": [
+        {
+          "row": 0,
+          "col": 0,
+          "rockId": "simple"
+        },
+        {
+          "row": 0,
+          "col": 5,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "starThresholds": [
+        54,
+        68,
+        75
+      ],
+      "counts": {
+        "circle": 1,
+        "heart": 6,
+        "triangle": 4,
+        "spade": 1,
+        "square": 5
+      },
+      "boardShape": "cross",
+      "rocks": [
+        {
+          "row": 3,
+          "col": 4,
+          "rockId": "simple"
+        },
+        {
+          "row": 3,
+          "col": 2,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "starThresholds": [
+        -18,
+        -30,
+        -37
+      ],
+      "counts": {
+        "circle": 1,
+        "heart": 3,
+        "triangle": 5,
+        "spade": 1,
+        "square": 5,
+        "play": 1
+      },
+      "boardSize": 4
+    },
+    {
+      "id": 45,
+      "starThresholds": [
+        65,
+        85,
+        96
+      ],
+      "counts": {
+        "circle": 5,
+        "triangle": 4,
+        "spade": 4,
+        "square": 2,
+        "play": 4
+      },
+      "boardShape": "cross",
+      "rocks": [
+        {
+          "row": 2,
+          "col": 7,
+          "rockId": "simple"
+        },
+        {
+          "row": 3,
+          "col": 5,
+          "rockId": "simple"
+        },
+        {
+          "row": 6,
+          "col": 2,
+          "rockId": "simple"
+        },
+        {
+          "row": 1,
+          "col": 3,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "starThresholds": [
+        77,
+        94,
+        102
+      ],
+      "counts": {
+        "circle": 4,
+        "heart": 1,
+        "triangle": 1,
+        "spade": 4,
+        "square": 8,
+        "play": 2
+      },
+      "rocks": [
+        {
+          "row": 7,
+          "col": 5,
+          "rockId": "simple"
+        },
+        {
+          "row": 4,
+          "col": 1,
+          "rockId": "simple"
+        },
+        {
+          "row": 7,
+          "col": 2,
+          "rockId": "simple"
+        },
+        {
+          "row": 0,
+          "col": 5,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "starThresholds": [
+        76,
+        94,
+        105
+      ],
+      "counts": {
+        "circle": 4,
+        "heart": 4,
+        "triangle": 5,
+        "spade": 3,
+        "square": 3,
+        "play": 2
+      },
+      "boardSize": 6,
+      "rocks": [
+        {
+          "row": 2,
+          "col": 0,
+          "rockId": "simple"
+        },
+        {
+          "row": 3,
+          "col": 2,
+          "rockId": "simple"
+        },
+        {
+          "row": 4,
+          "col": 1,
+          "rockId": "simple"
+        },
+        {
+          "row": 3,
+          "col": 5,
+          "rockId": "simple"
+        },
+        {
+          "row": 0,
+          "col": 1,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "starThresholds": [
+        70,
+        88,
+        97
+      ],
+      "counts": {
+        "circle": 4,
+        "heart": 2,
+        "triangle": 5,
+        "spade": 5,
+        "square": 5,
+        "play": 1
+      },
+      "boardShape": "cross",
+      "rocks": [
+        {
+          "row": 4,
+          "col": 6,
+          "rockId": "simple"
+        },
+        {
+          "row": 5,
+          "col": 1,
+          "rockId": "simple"
+        },
+        {
+          "row": 2,
+          "col": 3,
+          "rockId": "simple"
+        },
+        {
+          "row": 6,
+          "col": 2,
+          "rockId": "simple"
+        },
+        {
+          "row": 1,
+          "col": 4,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "starThresholds": [
+        55,
+        64,
+        70
+      ],
+      "counts": {
+        "circle": 4,
+        "heart": 1,
+        "triangle": 1,
+        "square": 1,
+        "play": 1,
+        "type": 6
+      },
+      "boardSize": 6
+    },
+    {
+      "id": 50,
+      "starThresholds": [
+        47,
+        61,
+        66
+      ],
+      "counts": {
+        "circle": 2,
+        "triangle": 4,
+        "spade": 2,
+        "square": 3,
+        "play": 2,
+        "type": 2
+      },
+      "boardShape": "cross"
+    },
+    {
+      "id": 51,
+      "starThresholds": [
+        56,
+        70,
+        75
+      ],
+      "counts": {
+        "circle": 3,
+        "heart": 2,
+        "triangle": 1,
+        "spade": 2,
+        "square": 1,
+        "play": 2,
+        "type": 5
+      },
+      "boardShape": "cross",
+      "rocks": [
+        {
+          "row": 3,
+          "col": 2,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "starThresholds": [
+        -32,
+        -40,
+        -45
+      ],
+      "counts": {
+        "circle": 2,
+        "triangle": 1,
+        "spade": 5,
+        "square": 2,
+        "play": 4,
+        "type": 3
+      },
+      "rocks": [
+        {
+          "row": 3,
+          "col": 1,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "starThresholds": [
+        65,
+        83,
+        91
+      ],
+      "counts": {
+        "circle": 2,
+        "heart": 3,
+        "triangle": 5,
+        "spade": 1,
+        "square": 2,
+        "play": 3,
+        "type": 2
+      },
+      "boardShape": "cross",
+      "rocks": [
+        {
+          "row": 1,
+          "col": 3,
+          "rockId": "simple"
+        },
+        {
+          "row": 6,
+          "col": 4,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "starThresholds": [
+        65,
+        78,
+        88
+      ],
+      "counts": {
+        "circle": 1,
+        "heart": 1,
+        "triangle": 1,
+        "spade": 6,
+        "square": 4,
+        "play": 3,
+        "type": 3
+      },
+      "boardSize": 6,
+      "rocks": [
+        {
+          "row": 0,
+          "col": 4,
+          "rockId": "simple"
+        },
+        {
+          "row": 5,
+          "col": 2,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "starThresholds": [
+        57,
+        70,
+        78
+      ],
+      "counts": {
+        "heart": 4,
+        "triangle": 6,
+        "spade": 4,
+        "play": 3,
+        "type": 3
+      },
+      "boardShape": "cross",
+      "rocks": [
+        {
+          "row": 1,
+          "col": 2,
+          "rockId": "simple"
+        },
+        {
+          "row": 3,
+          "col": 4,
+          "rockId": "simple"
+        },
+        {
+          "row": 5,
+          "col": 1,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "starThresholds": [
+        -31,
+        -41,
+        -47
+      ],
+      "counts": {
+        "circle": 3,
+        "heart": 4,
+        "triangle": 2,
+        "spade": 3,
+        "square": 1,
+        "play": 4,
+        "type": 4
+      },
+      "boardShape": "cross",
+      "rocks": [
+        {
+          "row": 2,
+          "col": 2,
+          "rockId": "simple"
+        },
+        {
+          "row": 6,
+          "col": 2,
+          "rockId": "simple"
+        },
+        {
+          "row": 5,
+          "col": 3,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "starThresholds": [
+        77,
+        93,
+        104
+      ],
+      "counts": {
+        "heart": 3,
+        "triangle": 6,
+        "spade": 3,
+        "square": 4,
+        "play": 4,
+        "type": 2
+      },
+      "rocks": [
+        {
+          "row": 2,
+          "col": 5,
+          "rockId": "simple"
+        },
+        {
+          "row": 7,
+          "col": 3,
+          "rockId": "simple"
+        },
+        {
+          "row": 7,
+          "col": 1,
+          "rockId": "simple"
+        },
+        {
+          "row": 5,
+          "col": 1,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "starThresholds": [
+        104,
+        124,
+        130
+      ],
+      "counts": {
+        "circle": 3,
+        "heart": 1,
+        "triangle": 1,
+        "spade": 4,
+        "square": 7,
+        "play": 4,
+        "type": 3
+      },
+      "boardShape": "cross",
+      "rocks": [
+        {
+          "row": 7,
+          "col": 2,
+          "rockId": "simple"
+        },
+        {
+          "row": 1,
+          "col": 4,
+          "rockId": "simple"
+        },
+        {
+          "row": 7,
+          "col": 5,
+          "rockId": "simple"
+        },
+        {
+          "row": 4,
+          "col": 3,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "starThresholds": [
+        110,
+        126,
+        137
+      ],
+      "counts": {
+        "circle": 1,
+        "heart": 8,
+        "triangle": 5,
+        "square": 4,
+        "play": 2,
+        "type": 4
+      },
+      "rocks": [
+        {
+          "row": 4,
+          "col": 1,
+          "rockId": "simple"
+        },
+        {
+          "row": 4,
+          "col": 7,
+          "rockId": "simple"
+        },
+        {
+          "row": 1,
+          "col": 0,
+          "rockId": "simple"
+        },
+        {
+          "row": 0,
+          "col": 4,
+          "rockId": "simple"
+        },
+        {
+          "row": 7,
+          "col": 7,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "starThresholds": [
+        122,
+        143,
+        155
+      ],
+      "counts": {
+        "circle": 4,
+        "heart": 5,
+        "triangle": 2,
+        "spade": 4,
+        "square": 2,
+        "play": 6,
+        "type": 2
+      },
+      "rocks": [
+        {
+          "row": 7,
+          "col": 2,
+          "rockId": "simple"
+        },
+        {
+          "row": 2,
+          "col": 0,
+          "rockId": "simple"
+        },
+        {
+          "row": 0,
+          "col": 7,
+          "rockId": "simple"
+        },
+        {
+          "row": 6,
+          "col": 6,
+          "rockId": "simple"
+        },
+        {
+          "row": 6,
+          "col": 3,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "starThresholds": [
+        51,
+        64,
+        70
+      ],
+      "counts": {
+        "circle": 2,
+        "heart": 2,
+        "triangle": 1,
+        "spade": 4,
+        "square": 2,
+        "play": 1,
+        "type": 4
+      },
+      "boardShape": "cross",
+      "rocks": [
+        {
+          "row": 5,
+          "col": 2,
+          "rockId": "bonus"
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "starThresholds": [
+        56,
+        70,
+        77
+      ],
+      "counts": {
+        "circle": 2,
+        "heart": 1,
+        "triangle": 6,
+        "spade": 2,
+        "square": 2,
+        "type": 4
+      },
+      "rocks": [
+        {
+          "row": 3,
+          "col": 2,
+          "rockId": "bonus"
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "starThresholds": [
+        65,
+        82,
+        90
+      ],
+      "counts": {
+        "circle": 2,
+        "heart": 2,
+        "triangle": 3,
+        "spade": 3,
+        "square": 2,
+        "play": 4,
+        "type": 2
+      },
+      "boardShape": "cross",
+      "rocks": [
+        {
+          "row": 4,
+          "col": 1,
+          "rockId": "bonus"
+        },
+        {
+          "row": 2,
+          "col": 5,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "starThresholds": [
+        -31,
+        -42,
+        -48
+      ],
+      "counts": {
+        "circle": 2,
+        "heart": 3,
+        "triangle": 5,
+        "spade": 1,
+        "square": 5,
+        "type": 3
+      },
+      "boardShape": "cross",
+      "rocks": [
+        {
+          "row": 3,
+          "col": 5,
+          "rockId": "bonus"
+        },
+        {
+          "row": 2,
+          "col": 2,
+          "rockId": "bonus"
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "starThresholds": [
+        50,
+        63,
+        69
+      ],
+      "counts": {
+        "circle": 1,
+        "heart": 6,
+        "triangle": 2,
+        "spade": 2,
+        "square": 2,
+        "play": 1,
+        "type": 2
+      },
+      "boardSize": 4
+    },
+    {
+      "id": 66,
+      "starThresholds": [
+        68,
+        85,
+        92
+      ],
+      "counts": {
+        "circle": 3,
+        "heart": 2,
+        "triangle": 7,
+        "spade": 4,
+        "square": 3,
+        "type": 2
+      },
+      "boardShape": "cross",
+      "rocks": [
+        {
+          "row": 3,
+          "col": 6,
+          "rockId": "simple"
+        },
+        {
+          "row": 7,
+          "col": 3,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "starThresholds": [
+        46,
+        60,
+        66
+      ],
+      "counts": {
+        "circle": 2,
+        "heart": 2,
+        "triangle": 2,
+        "spade": 3,
+        "square": 4,
+        "play": 1,
+        "type": 2
+      },
+      "boardSize": 4
+    },
+    {
+      "id": 68,
+      "starThresholds": [
+        -27,
+        -41,
+        -47
+      ],
+      "counts": {
+        "circle": 4,
+        "heart": 3,
+        "triangle": 3,
+        "spade": 3,
+        "square": 3,
+        "play": 5,
+        "type": 3
+      },
+      "boardShape": "cross",
+      "rocks": [
+        {
+          "row": 5,
+          "col": 7,
+          "rockId": "simple"
+        },
+        {
+          "row": 3,
+          "col": 3,
+          "rockId": "bonus"
+        },
+        {
+          "row": 1,
+          "col": 4,
+          "rockId": "bonus"
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "starThresholds": [
+        106,
+        125,
+        136
+      ],
+      "counts": {
+        "circle": 4,
+        "heart": 1,
+        "triangle": 3,
+        "spade": 4,
+        "square": 3,
+        "play": 5,
+        "type": 5
+      },
+      "boardShape": "cross",
+      "rocks": [
+        {
+          "row": 3,
+          "col": 4,
+          "rockId": "bonus"
+        },
+        {
+          "row": 7,
+          "col": 2,
+          "rockId": "simple"
+        },
+        {
+          "row": 3,
+          "col": 2,
+          "rockId": "simple"
+        },
+        {
+          "row": 5,
+          "col": 3,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "starThresholds": [
+        83,
+        102,
+        111
+      ],
+      "counts": {
+        "circle": 3,
+        "heart": 4,
+        "triangle": 4,
+        "spade": 4,
+        "play": 4,
+        "type": 7
+      },
+      "boardSize": 6,
+      "rocks": [
+        {
+          "row": 4,
+          "col": 5,
+          "rockId": "simple"
+        },
+        {
+          "row": 1,
+          "col": 5,
+          "rockId": "simple"
+        },
+        {
+          "row": 2,
+          "col": 1,
+          "rockId": "bonus"
+        },
+        {
+          "row": 3,
+          "col": 3,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "starThresholds": [
+        111,
+        131,
+        142
+      ],
+      "counts": {
+        "heart": 3,
+        "triangle": 5,
+        "spade": 6,
+        "square": 8,
+        "play": 1,
+        "type": 4
+      },
+      "boardShape": "cross",
+      "rocks": [
+        {
+          "row": 2,
+          "col": 5,
+          "rockId": "bonus"
+        },
+        {
+          "row": 7,
+          "col": 2,
+          "rockId": "simple"
+        },
+        {
+          "row": 3,
+          "col": 3,
+          "rockId": "bonus"
+        },
+        {
+          "row": 5,
+          "col": 3,
+          "rockId": "bonus"
+        },
+        {
+          "row": 4,
+          "col": 6,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "starThresholds": [
+        117,
+        140,
+        153
+      ],
+      "counts": {
+        "circle": 4,
+        "heart": 5,
+        "triangle": 3,
+        "spade": 5,
+        "square": 3,
+        "play": 6,
+        "type": 2
+      },
+      "boardSize": 6,
+      "rocks": [
+        {
+          "row": 2,
+          "col": 3,
+          "rockId": "bonus"
+        },
+        {
+          "row": 0,
+          "col": 1,
+          "rockId": "simple"
+        },
+        {
+          "row": 2,
+          "col": 1,
+          "rockId": "bonus"
+        },
+        {
+          "row": 1,
+          "col": 4,
+          "rockId": "simple"
+        },
+        {
+          "row": 4,
+          "col": 4,
+          "rockId": "bonus"
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "starThresholds": [
+        70,
+        82,
+        88
+      ],
+      "counts": {
+        "circle": 3,
+        "heart": 3,
+        "triangle": 2,
+        "spade": 2,
+        "diamond": 4,
+        "play": 3,
+        "type": 1
+      },
+      "boardShape": "plus"
+    },
+    {
+      "id": 74,
+      "starThresholds": [
+        92,
+        107,
+        113
+      ],
+      "counts": {
+        "circle": 1,
+        "heart": 4,
+        "triangle": 1,
+        "spade": 1,
+        "diamond": 3,
+        "square": 5,
+        "play": 1,
+        "type": 3
+      },
+      "boardShape": "plus"
+    },
+    {
+      "id": 75,
+      "starThresholds": [
+        72,
+        87,
+        95
+      ],
+      "counts": {
+        "circle": 1,
+        "heart": 1,
+        "triangle": 5,
+        "spade": 3,
+        "diamond": 3,
+        "square": 3,
+        "play": 3,
+        "type": 1
+      },
+      "boardShape": "plus",
+      "rocks": [
+        {
+          "row": 4,
+          "col": 7,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "starThresholds": [
+        -6,
+        -19,
+        -26
+      ],
+      "counts": {
+        "circle": 2,
+        "heart": 2,
+        "triangle": 4,
+        "spade": 2,
+        "diamond": 4,
+        "square": 2,
+        "play": 3,
+        "type": 3
+      },
+      "boardShape": "plus",
+      "rocks": [
+        {
+          "row": 2,
+          "col": 4,
+          "rockId": "bonus"
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "starThresholds": [
+        114,
+        129,
+        140
+      ],
+      "counts": {
+        "circle": 3,
+        "heart": 2,
+        "triangle": 3,
+        "spade": 2,
+        "diamond": 5,
+        "square": 2,
+        "play": 3,
+        "type": 3
+      },
+      "boardSize": 6,
+      "rocks": [
+        {
+          "row": 4,
+          "col": 2,
+          "rockId": "simple"
+        },
+        {
+          "row": 1,
+          "col": 2,
+          "rockId": "bonus"
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "starThresholds": [
+        99,
+        118,
+        128
+      ],
+      "counts": {
+        "circle": 2,
+        "heart": 5,
+        "triangle": 3,
+        "spade": 5,
+        "diamond": 3,
+        "square": 2,
+        "play": 2,
+        "type": 2
+      },
+      "boardShape": "cross",
+      "rocks": [
+        {
+          "row": 4,
+          "col": 5,
+          "rockId": "bonus"
+        },
+        {
+          "row": 3,
+          "col": 3,
+          "rockId": "bonus"
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "starThresholds": [
+        90,
+        109,
+        119
+      ],
+      "counts": {
+        "circle": 4,
+        "heart": 4,
+        "triangle": 2,
+        "spade": 4,
+        "diamond": 2,
+        "square": 5,
+        "play": 3,
+        "type": 1
+      },
+      "boardShape": "plus",
+      "rocks": [
+        {
+          "row": 3,
+          "col": 1,
+          "rockId": "simple"
+        },
+        {
+          "row": 7,
+          "col": 3,
+          "rockId": "simple"
+        },
+        {
+          "row": 4,
+          "col": 3,
+          "rockId": "bonus"
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "starThresholds": [
+        -27,
+        -40,
+        -48
+      ],
+      "counts": {
+        "circle": 4,
+        "heart": 2,
+        "triangle": 3,
+        "spade": 3,
+        "diamond": 2,
+        "square": 4,
+        "play": 2,
+        "type": 6
+      },
+      "rocks": [
+        {
+          "row": 1,
+          "col": 5,
+          "rockId": "bonus"
+        },
+        {
+          "row": 4,
+          "col": 4,
+          "rockId": "bonus"
+        },
+        {
+          "row": 2,
+          "col": 2,
+          "rockId": "bonus"
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "starThresholds": [
+        136,
+        153,
+        161
+      ],
+      "counts": {
+        "circle": 3,
+        "heart": 2,
+        "triangle": 5,
+        "spade": 2,
+        "diamond": 6,
+        "square": 1,
+        "play": 3,
+        "type": 5
+      },
+      "boardShape": "cross",
+      "rocks": [
+        {
+          "row": 5,
+          "col": 3,
+          "rockId": "bonus"
+        },
+        {
+          "row": 1,
+          "col": 2,
+          "rockId": "bonus"
+        },
+        {
+          "row": 2,
+          "col": 6,
+          "rockId": "simple"
+        },
+        {
+          "row": 5,
+          "col": 5,
+          "rockId": "bonus"
+        }
+      ],
+      "skipUnlockChecks": true
+    },
+    {
+      "id": 82,
+      "starThresholds": [
+        128,
+        145,
+        154
+      ],
+      "counts": {
+        "circle": 7,
+        "heart": 5,
+        "triangle": 2,
+        "spade": 2,
+        "diamond": 5,
+        "square": 3,
+        "play": 1,
+        "type": 3
+      },
+      "boardShape": "plus"
+    },
+    {
+      "id": 83,
+      "starThresholds": [
+        128,
+        154,
+        166
+      ],
+      "counts": {
+        "circle": 2,
+        "heart": 7,
+        "triangle": 1,
+        "spade": 6,
+        "diamond": 2,
+        "square": 3,
+        "play": 2,
+        "type": 7
+      },
+      "rocks": [
+        {
+          "row": 5,
+          "col": 0,
+          "rockId": "simple"
+        },
+        {
+          "row": 2,
+          "col": 6,
+          "rockId": "simple"
+        },
+        {
+          "row": 7,
+          "col": 3,
+          "rockId": "simple"
+        },
+        {
+          "row": 2,
+          "col": 3,
+          "rockId": "simple"
+        },
+        {
+          "row": 5,
+          "col": 2,
+          "rockId": "bonus"
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "starThresholds": [
+        96,
+        114,
+        125
+      ],
+      "counts": {
+        "circle": 7,
+        "heart": 3,
+        "triangle": 2,
+        "spade": 5,
+        "diamond": 3,
+        "square": 2,
+        "play": 2,
+        "type": 4
+      },
+      "boardShape": "plus"
+    },
+    {
+      "id": 85,
+      "starThresholds": [
+        74,
+        91,
+        99
+      ],
+      "counts": {
+        "circle": 1,
+        "triangle": 2,
+        "spade": 2,
+        "diamond": 2,
+        "square": 2,
+        "play": 4,
+        "type": 2,
+        "sword": 5
+      }
+    },
+    {
+      "id": 86,
+      "starThresholds": [
+        87,
+        104,
+        115
+      ],
+      "counts": {
+        "circle": 1,
+        "heart": 5,
+        "triangle": 3,
+        "spade": 1,
+        "square": 3,
+        "play": 3,
+        "type": 3,
+        "sword": 2
+      },
+      "boardShape": "cross"
+    },
+    {
+      "id": 87,
+      "starThresholds": [
+        87,
+        103,
+        114
+      ],
+      "counts": {
+        "circle": 3,
+        "triangle": 4,
+        "spade": 2,
+        "diamond": 2,
+        "square": 5,
+        "play": 1,
+        "type": 3,
+        "sword": 3
+      },
+      "boardShape": "plus",
+      "rocks": [
+        {
+          "row": 4,
+          "col": 6,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "starThresholds": [
+        -33,
+        -48,
+        -53
+      ],
+      "counts": {
+        "heart": 3,
+        "triangle": 1,
+        "spade": 4,
+        "diamond": 1,
+        "square": 2,
+        "play": 1,
+        "type": 1,
+        "sword": 3
+      },
+      "boardSize": 4
+    },
+    {
+      "id": 89,
+      "starThresholds": [
+        117,
+        137,
+        146
+      ],
+      "counts": {
+        "circle": 4,
+        "heart": 1,
+        "triangle": 3,
+        "spade": 2,
+        "diamond": 2,
+        "square": 3,
+        "play": 5,
+        "type": 2,
+        "sword": 3
+      },
+      "boardShape": "cross",
+      "rocks": [
+        {
+          "row": 1,
+          "col": 4,
+          "rockId": "bonus"
+        },
+        {
+          "row": 3,
+          "col": 3,
+          "rockId": "bonus"
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "starThresholds": [
+        133,
+        156,
+        165
+      ],
+      "counts": {
+        "heart": 5,
+        "diamond": 2,
+        "square": 5,
+        "play": 6,
+        "type": 5,
+        "sword": 3
+      },
+      "rocks": [
+        {
+          "row": 6,
+          "col": 1,
+          "rockId": "bonus"
+        },
+        {
+          "row": 4,
+          "col": 1,
+          "rockId": "bonus"
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "starThresholds": [
+        126,
+        144,
+        154
+      ],
+      "counts": {
+        "circle": 6,
+        "heart": 2,
+        "triangle": 1,
+        "spade": 4,
+        "diamond": 3,
+        "square": 2,
+        "play": 2,
+        "type": 7,
+        "sword": 1
+      },
+      "boardShape": "cross",
+      "rocks": [
+        {
+          "row": 3,
+          "col": 0,
+          "rockId": "simple"
+        },
+        {
+          "row": 4,
+          "col": 2,
+          "rockId": "simple"
+        },
+        {
+          "row": 4,
+          "col": 6,
+          "rockId": "bonus"
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "starThresholds": [
+        -42,
+        -56,
+        -64
+      ],
+      "counts": {
+        "circle": 3,
+        "heart": 3,
+        "triangle": 2,
+        "spade": 2,
+        "diamond": 4,
+        "square": 2,
+        "play": 4,
+        "type": 2,
+        "sword": 6
+      },
+      "boardShape": "plus"
+    },
+    {
+      "id": 93,
+      "starThresholds": [
+        105,
+        126,
+        141
+      ],
+      "counts": {
+        "circle": 4,
+        "heart": 2,
+        "triangle": 4,
+        "spade": 6,
+        "diamond": 4,
+        "square": 2,
+        "play": 2,
+        "type": 2,
+        "sword": 4
+      },
+      "boardSize": 6,
+      "rocks": [
+        {
+          "row": 2,
+          "col": 3,
+          "rockId": "simple"
+        },
+        {
+          "row": 4,
+          "col": 4,
+          "rockId": "bonus"
+        },
+        {
+          "row": 4,
+          "col": 2,
+          "rockId": "simple"
+        },
+        {
+          "row": 3,
+          "col": 1,
+          "rockId": "bonus"
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "starThresholds": [
+        151,
+        175,
+        185
+      ],
+      "counts": {
+        "circle": 4,
+        "heart": 3,
+        "triangle": 5,
+        "spade": 2,
+        "diamond": 5,
+        "square": 2,
+        "play": 3,
+        "type": 4,
+        "sword": 3
+      },
+      "boardShape": "cross",
+      "rocks": [
+        {
+          "row": 2,
+          "col": 5,
+          "rockId": "bonus"
+        },
+        {
+          "row": 2,
+          "col": 1,
+          "rockId": "bonus"
+        },
+        {
+          "row": 1,
+          "col": 2,
+          "rockId": "simple"
+        },
+        {
+          "row": 5,
+          "col": 4,
+          "rockId": "bonus"
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "starThresholds": [
+        117,
+        139,
+        149
+      ],
+      "counts": {
+        "circle": 1,
+        "heart": 2,
+        "triangle": 4,
+        "spade": 1,
+        "diamond": 2,
+        "square": 6,
+        "play": 2,
+        "type": 7,
+        "sword": 3
+      },
+      "boardShape": "plus"
+    },
+    {
+      "id": 96,
+      "starThresholds": [
+        144,
+        167,
+        182
+      ],
+      "counts": {
+        "circle": 1,
+        "heart": 3,
+        "triangle": 4,
+        "spade": 6,
+        "diamond": 3,
+        "square": 3,
+        "play": 4,
+        "type": 6,
+        "sword": 4
+      },
+      "boardShape": "cross",
+      "rocks": [
+        {
+          "row": 1,
+          "col": 3,
+          "rockId": "bonus"
+        },
+        {
+          "row": 5,
+          "col": 5,
+          "rockId": "bonus"
+        },
+        {
+          "row": 3,
+          "col": 1,
+          "rockId": "bonus"
+        },
+        {
+          "row": 6,
+          "col": 3,
+          "rockId": "simple"
+        },
+        {
+          "row": 3,
+          "col": 3,
+          "rockId": "bonus"
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "starThresholds": [
+        66,
+        83,
+        92
+      ],
+      "counts": {
+        "circle": 4,
+        "heart": 1,
+        "triangle": 1,
+        "spade": 1,
+        "diamond": 2,
+        "square": 4,
+        "play": 1,
+        "type": 2,
+        "sword": 4
+      },
+      "boardShape": "plus",
+      "rocks": [
+        {
+          "row": 3,
+          "col": 2,
+          "rockId": "penalty"
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "starThresholds": [
+        73,
+        90,
+        97
+      ],
+      "counts": {
+        "circle": 1,
+        "heart": 1,
+        "triangle": 2,
+        "spade": 6,
+        "diamond": 1,
+        "square": 3,
+        "play": 1,
+        "type": 4,
+        "sword": 2
+      },
+      "boardSize": 6,
+      "rocks": [
+        {
+          "row": 3,
+          "col": 1,
+          "rockId": "penalty"
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "starThresholds": [
+        89,
+        106,
+        116
+      ],
+      "counts": {
+        "circle": 4,
+        "heart": 2,
+        "triangle": 4,
+        "spade": 2,
+        "diamond": 3,
+        "square": 1,
+        "play": 1,
+        "type": 3,
+        "sword": 3
+      },
+      "boardShape": "cross",
+      "rocks": [
+        {
+          "row": 5,
+          "col": 6,
+          "rockId": "penalty"
+        },
+        {
+          "row": 5,
+          "col": 4,
+          "rockId": "bonus"
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "starThresholds": [
+        -21,
+        -31,
+        -40
+      ],
+      "counts": {
+        "circle": 3,
+        "heart": 2,
+        "triangle": 2,
+        "spade": 1,
+        "diamond": 2,
+        "square": 2,
+        "play": 5,
+        "type": 4,
+        "sword": 3
+      },
+      "boardShape": "plus",
+      "rocks": [
+        {
+          "row": 4,
+          "col": 3,
+          "rockId": "penalty"
+        },
+        {
+          "row": 4,
+          "col": 1,
+          "rockId": "penalty"
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "starThresholds": [
+        123,
+        146,
+        161
+      ],
+      "counts": {
+        "circle": 4,
+        "heart": 4,
+        "triangle": 2,
+        "spade": 2,
+        "diamond": 1,
+        "square": 4,
+        "play": 4,
+        "type": 2,
+        "sword": 2
+      },
+      "rocks": [
+        {
+          "row": 5,
+          "col": 2,
+          "rockId": "bonus"
+        },
+        {
+          "row": 7,
+          "col": 0,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "starThresholds": [
+        123,
+        143,
+        154
+      ],
+      "counts": {
+        "circle": 3,
+        "heart": 1,
+        "triangle": 4,
+        "spade": 3,
+        "diamond": 3,
+        "square": 6,
+        "play": 3,
+        "type": 2,
+        "sword": 1
+      },
+      "boardShape": "cross",
+      "rocks": [
+        {
+          "row": 1,
+          "col": 4,
+          "rockId": "bonus"
+        },
+        {
+          "row": 3,
+          "col": 5,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "starThresholds": [
+        106,
+        125,
+        142
+      ],
+      "counts": {
+        "circle": 5,
+        "heart": 2,
+        "triangle": 2,
+        "spade": 6,
+        "diamond": 2,
+        "square": 2,
+        "play": 1,
+        "type": 5,
+        "sword": 3
+      },
+      "rocks": [
+        {
+          "row": 6,
+          "col": 4,
+          "rockId": "simple"
+        },
+        {
+          "row": 6,
+          "col": 6,
+          "rockId": "penalty"
+        },
+        {
+          "row": 2,
+          "col": 6,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "starThresholds": [
+        -58,
+        -76,
+        -85
+      ],
+      "counts": {
+        "circle": 1,
+        "heart": 4,
+        "triangle": 2,
+        "spade": 4,
+        "diamond": 5,
+        "square": 3,
+        "play": 4,
+        "type": 3,
+        "sword": 3
+      },
+      "boardShape": "cross",
+      "rocks": [
+        {
+          "row": 1,
+          "col": 2,
+          "rockId": "penalty"
+        },
+        {
+          "row": 1,
+          "col": 5,
+          "rockId": "penalty"
+        },
+        {
+          "row": 6,
+          "col": 3,
+          "rockId": "bonus"
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "starThresholds": [
+        77,
+        96,
+        109
+      ],
+      "counts": {
+        "circle": 3,
+        "heart": 3,
+        "triangle": 4,
+        "spade": 5,
+        "diamond": 1,
+        "square": 1,
+        "play": 4,
+        "type": 3,
+        "sword": 4
+      },
+      "boardShape": "plus"
+    },
+    {
+      "id": 106,
+      "starThresholds": [
+        137,
+        163,
+        185
+      ],
+      "counts": {
+        "circle": 5,
+        "heart": 2,
+        "triangle": 4,
+        "spade": 5,
+        "diamond": 2,
+        "square": 4,
+        "play": 4,
+        "type": 1,
+        "sword": 4
+      },
+      "rocks": [
+        {
+          "row": 2,
+          "col": 7,
+          "rockId": "simple"
+        },
+        {
+          "row": 6,
+          "col": 2,
+          "rockId": "simple"
+        },
+        {
+          "row": 6,
+          "col": 4,
+          "rockId": "bonus"
+        },
+        {
+          "row": 1,
+          "col": 4,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "starThresholds": [
+        118,
+        144,
+        157
+      ],
+      "counts": {
+        "circle": 3,
+        "heart": 2,
+        "triangle": 5,
+        "spade": 7,
+        "diamond": 1,
+        "square": 2,
+        "play": 3,
+        "type": 4,
+        "sword": 6
+      },
+      "boardShape": "cross",
+      "rocks": [
+        {
+          "row": 6,
+          "col": 3,
+          "rockId": "simple"
+        },
+        {
+          "row": 2,
+          "col": 5,
+          "rockId": "bonus"
+        },
+        {
+          "row": 2,
+          "col": 7,
+          "rockId": "simple"
+        },
+        {
+          "row": 2,
+          "col": 2,
+          "rockId": "simple"
+        },
+        {
+          "row": 4,
+          "col": 6,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "starThresholds": [
+        101,
+        122,
+        129
+      ],
+      "counts": {
+        "circle": 3,
+        "heart": 3,
+        "triangle": 3,
+        "spade": 3,
+        "diamond": 2,
+        "square": 4,
+        "play": 5,
+        "type": 2,
+        "sword": 3
+      },
+      "boardShape": "plus"
+    },
+    {
+      "id": 109,
+      "starThresholds": [
+        95,
+        111,
+        119
+      ],
+      "counts": {
+        "circle": 3,
+        "heart": 3,
+        "spade": 2,
+        "square": 1,
+        "play": 2,
+        "type": 3,
+        "squaresUnite": 6
+      },
+      "boardShape": "hallway"
+    },
+    {
+      "id": 110,
+      "starThresholds": [
+        84,
+        96,
+        104
+      ],
+      "counts": {
+        "heart": 2,
+        "triangle": 1,
+        "spade": 2,
+        "diamond": 3,
+        "square": 1,
+        "play": 2,
+        "type": 5,
+        "squaresUnite": 3,
+        "sword": 2
+      },
+      "boardShape": "hallway"
+    },
+    {
+      "id": 111,
+      "starThresholds": [
+        69,
+        90,
+        100
+      ],
+      "counts": {
+        "circle": 3,
+        "heart": 2,
+        "triangle": 3,
+        "spade": 2,
+        "square": 2,
+        "play": 2,
+        "type": 4,
+        "squaresUnite": 2,
+        "sword": 3
+      },
+      "boardShape": "hallway",
+      "rocks": [
+        {
+          "row": 4,
+          "col": 5,
+          "rockId": "bonus"
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "starThresholds": [
+        12,
+        -4,
+        -12
+      ],
+      "counts": {
+        "circle": 3,
+        "heart": 2,
+        "triangle": 1,
+        "spade": 3,
+        "diamond": 4,
+        "square": 3,
+        "play": 1,
+        "type": 1,
+        "squaresUnite": 4,
+        "sword": 2
+      },
+      "boardShape": "hallway"
+    },
+    {
+      "id": 113,
+      "starThresholds": [
+        117,
+        134,
+        146
+      ],
+      "counts": {
+        "circle": 5,
+        "heart": 2,
+        "triangle": 1,
+        "spade": 1,
+        "diamond": 4,
+        "square": 3,
+        "play": 2,
+        "type": 1,
+        "squaresUnite": 3,
+        "sword": 2
+      },
+      "boardShape": "hallway"
+    },
+    {
+      "id": 114,
+      "starThresholds": [
+        115,
+        138,
+        148
+      ],
+      "counts": {
+        "circle": 2,
+        "heart": 2,
+        "triangle": 2,
+        "spade": 3,
+        "diamond": 6,
+        "square": 2,
+        "play": 1,
+        "squaresUnite": 3,
+        "sword": 5
+      },
+      "boardShape": "cross",
+      "rocks": [
+        {
+          "row": 1,
+          "col": 5,
+          "rockId": "simple"
+        },
+        {
+          "row": 2,
+          "col": 1,
+          "rockId": "penalty"
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "starThresholds": [
+        85,
+        106,
+        116
+      ],
+      "counts": {
+        "circle": 2,
+        "heart": 5,
+        "triangle": 3,
+        "spade": 5,
+        "diamond": 2,
+        "square": 2,
+        "play": 1,
+        "type": 5,
+        "squaresUnite": 1,
+        "sword": 2
+      },
+      "boardShape": "plus"
+    },
+    {
+      "id": 116,
+      "starThresholds": [
+        -26,
+        -41,
+        -49
+      ],
+      "counts": {
+        "circle": 2,
+        "heart": 5,
+        "triangle": 1,
+        "spade": 3,
+        "diamond": 4,
+        "square": 3,
+        "play": 1,
+        "type": 2,
+        "squaresUnite": 5,
+        "sword": 3
+      },
+      "boardSize": 6,
+      "rocks": [
+        {
+          "row": 3,
+          "col": 4,
+          "rockId": "simple"
+        },
+        {
+          "row": 1,
+          "col": 2,
+          "rockId": "penalty"
+        },
+        {
+          "row": 4,
+          "col": 0,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "starThresholds": [
+        139,
+        158,
+        166
+      ],
+      "counts": {
+        "circle": 1,
+        "heart": 5,
+        "triangle": 2,
+        "spade": 5,
+        "diamond": 3,
+        "square": 3,
+        "play": 4,
+        "type": 5,
+        "squaresUnite": 2
+      },
+      "boardShape": "cross",
+      "rocks": [
+        {
+          "row": 2,
+          "col": 6,
+          "rockId": "bonus"
+        },
+        {
+          "row": 4,
+          "col": 2,
+          "rockId": "penalty"
+        },
+        {
+          "row": 1,
+          "col": 3,
+          "rockId": "simple"
+        },
+        {
+          "row": 3,
+          "col": 4,
+          "rockId": "bonus"
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "starThresholds": [
+        71,
+        91,
+        108
+      ],
+      "counts": {
+        "circle": 2,
+        "heart": 2,
+        "triangle": 5,
+        "spade": 2,
+        "diamond": 2,
+        "play": 4,
+        "type": 1,
+        "squaresUnite": 2,
+        "sword": 4
+      },
+      "boardShape": "hallway"
+    },
+    {
+      "id": 119,
+      "starThresholds": [
+        162,
+        190,
+        205
+      ],
+      "counts": {
+        "circle": 2,
+        "heart": 1,
+        "triangle": 4,
+        "spade": 6,
+        "diamond": 1,
+        "square": 6,
+        "type": 3,
+        "squaresUnite": 4,
+        "sword": 6
+      },
+      "rocks": [
+        {
+          "row": 1,
+          "col": 2,
+          "rockId": "penalty"
+        },
+        {
+          "row": 5,
+          "col": 5,
+          "rockId": "bonus"
+        },
+        {
+          "row": 3,
+          "col": 6,
+          "rockId": "penalty"
+        },
+        {
+          "row": 6,
+          "col": 3,
+          "rockId": "bonus"
+        },
+        {
+          "row": 3,
+          "col": 4,
+          "rockId": "bonus"
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "starThresholds": [
+        94,
+        113,
+        122
+      ],
+      "counts": {
+        "circle": 3,
+        "heart": 3,
+        "triangle": 5,
+        "spade": 2,
+        "diamond": 3,
+        "play": 2,
+        "type": 2,
+        "squaresUnite": 6,
+        "sword": 2
+      },
+      "boardShape": "plus"
+    },
+    {
+      "id": 121,
+      "starThresholds": [
+        63,
+        85,
+        94
+      ],
+      "counts": {
+        "circle": 1,
+        "triangle": 2,
+        "spade": 6,
+        "square": 2,
+        "moon": 3,
+        "play": 4,
+        "squaresUnite": 2
+      },
+      "boardSize": 6
+    },
+    {
+      "id": 122,
+      "starThresholds": [
+        82,
+        104,
+        119
+      ],
+      "counts": {
+        "circle": 2,
+        "triangle": 1,
+        "spade": 1,
+        "square": 3,
+        "moon": 2,
+        "play": 3,
+        "type": 1,
+        "squaresUnite": 3,
+        "sword": 5
+      },
+      "boardShape": "cross"
+    },
+    {
+      "id": 123,
+      "starThresholds": [
+        74,
+        90,
+        99
+      ],
+      "counts": {
+        "heart": 1,
+        "triangle": 2,
+        "spade": 4,
+        "diamond": 6,
+        "square": 1,
+        "moon": 3,
+        "type": 2,
+        "squaresUnite": 3,
+        "sword": 1
+      },
+      "boardShape": "hallway",
+      "rocks": [
+        {
+          "row": 2,
+          "col": 3,
+          "rockId": "penalty"
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "starThresholds": [
+        -48,
+        -60,
+        -65
+      ],
+      "counts": {
+        "circle": 3,
+        "heart": 1,
+        "triangle": 3,
+        "spade": 5,
+        "diamond": 4,
+        "square": 2,
+        "moon": 3,
+        "play": 1,
+        "squaresUnite": 2
+      },
+      "rocks": [
+        {
+          "row": 1,
+          "col": 7,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 125,
+      "starThresholds": [
+        64,
+        80,
+        90
+      ],
+      "counts": {
+        "heart": 4,
+        "triangle": 6,
+        "spade": 3,
+        "diamond": 1,
+        "moon": 2,
+        "play": 1,
+        "type": 2,
+        "squaresUnite": 3,
+        "sword": 3
+      },
+      "boardShape": "plus",
+      "rocks": [
+        {
+          "row": 4,
+          "col": 4,
+          "rockId": "simple"
+        },
+        {
+          "row": 3,
+          "col": 5,
+          "rockId": "bonus"
+        }
+      ]
+    },
+    {
+      "id": 126,
+      "starThresholds": [
+        88,
+        109,
+        122
+      ],
+      "counts": {
+        "circle": 2,
+        "heart": 4,
+        "triangle": 6,
+        "spade": 1,
+        "diamond": 3,
+        "square": 2,
+        "type": 1,
+        "squaresUnite": 3,
+        "sword": 2
+      },
+      "boardShape": "hallway"
+    },
+    {
+      "id": 127,
+      "starThresholds": [
+        119,
+        141,
+        154
+      ],
+      "counts": {
+        "circle": 1,
+        "heart": 3,
+        "triangle": 4,
+        "spade": 3,
+        "diamond": 2,
+        "square": 2,
+        "moon": 2,
+        "play": 4,
+        "type": 3,
+        "sword": 4
+      },
+      "boardShape": "cross",
+      "rocks": [
+        {
+          "row": 3,
+          "col": 1,
+          "rockId": "bonus"
+        },
+        {
+          "row": 3,
+          "col": 5,
+          "rockId": "bonus"
+        },
+        {
+          "row": 2,
+          "col": 7,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 128,
+      "starThresholds": [
+        48,
+        29,
+        19
+      ],
+      "counts": {
+        "circle": 3,
+        "heart": 2,
+        "triangle": 1,
+        "diamond": 4,
+        "square": 3,
+        "moon": 6,
+        "play": 1,
+        "type": 4,
+        "squaresUnite": 2,
+        "sword": 2
+      },
+      "boardShape": "plus"
+    },
+    {
+      "id": 129,
+      "starThresholds": [
+        135,
+        156,
+        171
+      ],
+      "counts": {
+        "circle": 1,
+        "heart": 5,
+        "triangle": 2,
+        "spade": 4,
+        "diamond": 3,
+        "square": 3,
+        "play": 2,
+        "type": 3,
+        "squaresUnite": 4,
+        "sword": 3
+      },
+      "rocks": [
+        {
+          "row": 4,
+          "col": 1,
+          "rockId": "penalty"
+        },
+        {
+          "row": 2,
+          "col": 2,
+          "rockId": "simple"
+        },
+        {
+          "row": 3,
+          "col": 5,
+          "rockId": "penalty"
+        },
+        {
+          "row": 1,
+          "col": 5,
+          "rockId": "bonus"
+        }
+      ]
+    },
+    {
+      "id": 130,
+      "starThresholds": [
+        111,
+        137,
+        148
+      ],
+      "counts": {
+        "circle": 5,
+        "triangle": 3,
+        "spade": 6,
+        "diamond": 3,
+        "square": 1,
+        "moon": 1,
+        "play": 2,
+        "type": 4,
+        "squaresUnite": 2,
+        "sword": 4
+      },
+      "boardShape": "cross",
+      "rocks": [
+        {
+          "row": 4,
+          "col": 6,
+          "rockId": "penalty"
+        },
+        {
+          "row": 3,
+          "col": 0,
+          "rockId": "simple"
+        },
+        {
+          "row": 6,
+          "col": 2,
+          "rockId": "simple"
+        },
+        {
+          "row": 4,
+          "col": 2,
+          "rockId": "bonus"
+        }
+      ]
+    },
+    {
+      "id": 131,
+      "starThresholds": [
+        111,
+        128,
+        137
+      ],
+      "counts": {
+        "circle": 4,
+        "heart": 3,
+        "triangle": 1,
+        "spade": 1,
+        "diamond": 1,
+        "square": 2,
+        "moon": 3,
+        "play": 4,
+        "squaresUnite": 3,
+        "sword": 2
+      },
+      "boardShape": "hallway"
+    },
+    {
+      "id": 132,
+      "starThresholds": [
+        119,
+        143,
+        160
+      ],
+      "counts": {
+        "circle": 1,
+        "triangle": 2,
+        "spade": 4,
+        "diamond": 3,
+        "moon": 2,
+        "play": 3,
+        "type": 6,
+        "squaresUnite": 7,
+        "sword": 6
+      },
+      "boardShape": "cross",
+      "rocks": [
+        {
+          "row": 4,
+          "col": 6,
+          "rockId": "penalty"
+        },
+        {
+          "row": 1,
+          "col": 3,
+          "rockId": "simple"
+        },
+        {
+          "row": 3,
+          "col": 1,
+          "rockId": "penalty"
+        },
+        {
+          "row": 7,
+          "col": 3,
+          "rockId": "simple"
+        },
+        {
+          "row": 5,
+          "col": 2,
+          "rockId": "penalty"
+        }
+      ]
+    },
+    {
+      "id": 133,
+      "starThresholds": [
+        55,
+        70,
+        80
+      ],
+      "counts": {
+        "heart": 3,
+        "triangle": 1,
+        "spade": 3,
+        "square": 3,
+        "moon": 5,
+        "type": 1,
+        "squaresUnite": 2,
+        "sword": 2
+      },
+      "boardShape": "plus",
+      "rocks": [
+        {
+          "row": 3,
+          "col": 4,
+          "rockId": "mixed"
+        }
+      ]
+    },
+    {
+      "id": 134,
+      "starThresholds": [
+        92,
+        110,
+        122
+      ],
+      "counts": {
+        "circle": 3,
+        "triangle": 1,
+        "spade": 2,
+        "diamond": 3,
+        "square": 1,
+        "moon": 3,
+        "play": 1,
+        "type": 3,
+        "squaresUnite": 3,
+        "sword": 1
+      },
+      "rocks": [
+        {
+          "row": 2,
+          "col": 3,
+          "rockId": "mixed"
+        }
+      ]
+    },
+    {
+      "id": 135,
+      "starThresholds": [
+        104,
+        121,
+        131
+      ],
+      "counts": {
+        "circle": 1,
+        "heart": 5,
+        "triangle": 1,
+        "diamond": 1,
+        "square": 3,
+        "moon": 3,
+        "play": 3,
+        "type": 2,
+        "squaresUnite": 1,
+        "sword": 3
+      },
+      "boardShape": "cross",
+      "rocks": [
+        {
+          "row": 3,
+          "col": 3,
+          "rockId": "mixed"
+        },
+        {
+          "row": 6,
+          "col": 2,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 136,
+      "starThresholds": [
+        -13,
+        -24,
+        -36
+      ],
+      "counts": {
+        "circle": 3,
+        "heart": 1,
+        "triangle": 1,
+        "spade": 6,
+        "diamond": 3,
+        "square": 3,
+        "moon": 3,
+        "play": 1,
+        "type": 1,
+        "squaresUnite": 2
+      },
+      "boardShape": "hallway"
+    },
+    {
+      "id": 137,
+      "starThresholds": [
+        104,
+        120,
+        134
+      ],
+      "counts": {
+        "triangle": 4,
+        "spade": 2,
+        "diamond": 5,
+        "square": 2,
+        "moon": 2,
+        "play": 4,
+        "type": 2,
+        "squaresUnite": 1,
+        "sword": 3
+      },
+      "boardSize": 6,
+      "rocks": [
+        {
+          "row": 4,
+          "col": 1,
+          "rockId": "simple"
+        },
+        {
+          "row": 2,
+          "col": 4,
+          "rockId": "penalty"
+        }
+      ]
+    },
+    {
+      "id": 138,
+      "starThresholds": [
+        83,
+        103,
+        115
+      ],
+      "counts": {
+        "circle": 1,
+        "heart": 7,
+        "triangle": 2,
+        "spade": 1,
+        "square": 3,
+        "moon": 2,
+        "play": 2,
+        "type": 2,
+        "squaresUnite": 3,
+        "sword": 3
+      },
+      "boardShape": "plus",
+      "rocks": [
+        {
+          "row": 4,
+          "col": 2,
+          "rockId": "penalty"
+        },
+        {
+          "row": 2,
+          "col": 4,
+          "rockId": "bonus"
+        }
+      ]
+    },
+    {
+      "id": 139,
+      "starThresholds": [
+        72,
+        94,
+        103
+      ],
+      "counts": {
+        "circle": 4,
+        "heart": 1,
+        "triangle": 1,
+        "spade": 2,
+        "moon": 2,
+        "play": 4,
+        "type": 4,
+        "squaresUnite": 3,
+        "sword": 3
+      },
+      "boardShape": "hallway"
+    },
+    {
+      "id": 140,
+      "starThresholds": [
+        -78,
+        -91,
+        -100
+      ],
+      "counts": {
+        "circle": 3,
+        "heart": 4,
+        "triangle": 1,
+        "spade": 7,
+        "diamond": 5,
+        "moon": 3,
+        "type": 2,
+        "squaresUnite": 2,
+        "sword": 2
+      },
+      "boardShape": "cross",
+      "rocks": [
+        {
+          "row": 4,
+          "col": 1,
+          "rockId": "penalty"
+        },
+        {
+          "row": 1,
+          "col": 2,
+          "rockId": "mixed"
+        },
+        {
+          "row": 2,
+          "col": 6,
+          "rockId": "mixed"
+        }
+      ]
+    },
+    {
+      "id": 141,
+      "starThresholds": [
+        86,
+        107,
+        117
+      ],
+      "counts": {
+        "circle": 2,
+        "heart": 1,
+        "triangle": 4,
+        "spade": 1,
+        "diamond": 2,
+        "square": 2,
+        "play": 4,
+        "type": 4,
+        "squaresUnite": 2,
+        "sword": 6
+      },
+      "boardShape": "plus"
+    },
+    {
+      "id": 142,
+      "starThresholds": [
+        87,
+        110,
+        122
+      ],
+      "counts": {
+        "circle": 2,
+        "heart": 2,
+        "triangle": 3,
+        "spade": 7,
+        "diamond": 2,
+        "square": 4,
+        "moon": 7,
+        "type": 2,
+        "squaresUnite": 2
+      },
+      "boardSize": 6,
+      "rocks": [
+        {
+          "row": 2,
+          "col": 2,
+          "rockId": "mixed"
+        },
+        {
+          "row": 4,
+          "col": 3,
+          "rockId": "penalty"
+        },
+        {
+          "row": 1,
+          "col": 1,
+          "rockId": "mixed"
+        },
+        {
+          "row": 1,
+          "col": 4,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 143,
+      "starThresholds": [
+        112,
+        129,
+        139
+      ],
+      "counts": {
+        "circle": 1,
+        "heart": 3,
+        "triangle": 2,
+        "spade": 3,
+        "diamond": 6,
+        "square": 2,
+        "moon": 3,
+        "play": 3,
+        "type": 4,
+        "squaresUnite": 1
+      },
+      "boardShape": "plus"
+    },
+    {
+      "id": 144,
+      "starThresholds": [
+        84,
+        101,
+        115
+      ],
+      "counts": {
+        "circle": 4,
+        "triangle": 1,
+        "spade": 3,
+        "square": 4,
+        "moon": 2,
+        "play": 1,
+        "type": 4,
+        "squaresUnite": 2,
+        "sword": 3
+      },
+      "boardShape": "hallway"
+    },
+    {
+      "id": 145,
+      "starThresholds": [
+        93,
+        106,
+        115
+      ],
+      "counts": {
+        "circle": 3,
+        "heart": 1,
+        "triangle": 1,
+        "diamond": 2,
+        "square": 2,
+        "moon": 1,
+        "play": 2,
+        "squaresUnite": 2,
+        "sword": 2,
+        "chevronLast": 4
+      },
+      "boardShape": "diamond"
+    },
+    {
+      "id": 146,
+      "starThresholds": [
+        72,
+        90,
+        100
+      ],
+      "counts": {
+        "heart": 1,
+        "triangle": 3,
+        "spade": 2,
+        "square": 1,
+        "moon": 1,
+        "play": 2,
+        "type": 4,
+        "squaresUnite": 1,
+        "sword": 5,
+        "chevronLast": 1
+      },
+      "boardShape": "diamond"
+    },
+    {
+      "id": 147,
+      "starThresholds": [
+        81,
+        95,
+        107
+      ],
+      "counts": {
+        "circle": 1,
+        "heart": 2,
+        "triangle": 4,
+        "spade": 1,
+        "diamond": 2,
+        "moon": 2,
+        "type": 3,
+        "squaresUnite": 3,
+        "sword": 4,
+        "chevronLast": 1
+      },
+      "boardShape": "diamond",
+      "rocks": [
+        {
+          "row": 6,
+          "col": 2,
+          "rockId": "mixed"
+        }
+      ]
+    },
+    {
+      "id": 148,
+      "starThresholds": [
+        -30,
+        -43,
+        -48
+      ],
+      "counts": {
+        "circle": 3,
+        "heart": 1,
+        "spade": 2,
+        "diamond": 3,
+        "square": 2,
+        "moon": 3,
+        "play": 2,
+        "type": 4,
+        "sword": 3,
+        "chevronLast": 1
+      },
+      "boardShape": "diamond",
+      "rocks": [
+        {
+          "row": 6,
+          "col": 5,
+          "rockId": "penalty"
+        }
+      ]
+    },
+    {
+      "id": 149,
+      "starThresholds": [
+        107,
+        124,
+        131
+      ],
+      "counts": {
+        "circle": 3,
+        "heart": 3,
+        "spade": 3,
+        "diamond": 3,
+        "moon": 1,
+        "play": 3,
+        "type": 4,
+        "squaresUnite": 2,
+        "sword": 1,
+        "chevronLast": 2
+      },
+      "boardShape": "diamond",
+      "rocks": [
+        {
+          "row": 4,
+          "col": 6,
+          "rockId": "bonus"
+        },
+        {
+          "row": 2,
+          "col": 5,
+          "rockId": "penalty"
+        }
+      ]
+    },
+    {
+      "id": 150,
+      "starThresholds": [
+        117,
+        137,
+        147
+      ],
+      "counts": {
+        "circle": 2,
+        "heart": 2,
+        "triangle": 2,
+        "spade": 3,
+        "square": 3,
+        "play": 1,
+        "type": 5,
+        "squaresUnite": 3,
+        "sword": 4,
+        "chevronLast": 1
+      },
+      "boardShape": "cross",
+      "rocks": [
+        {
+          "row": 3,
+          "col": 3,
+          "rockId": "bonus"
+        },
+        {
+          "row": 5,
+          "col": 5,
+          "rockId": "bonus"
+        }
+      ]
+    },
+    {
+      "id": 151,
+      "starThresholds": [
+        108,
+        128,
+        141
+      ],
+      "counts": {
+        "circle": 2,
+        "heart": 4,
+        "triangle": 4,
+        "diamond": 3,
+        "square": 5,
+        "moon": 2,
+        "play": 1,
+        "type": 4,
+        "sword": 3
+      },
+      "boardShape": "plus"
+    },
+    {
+      "id": 152,
+      "starThresholds": [
+        -27,
+        -40,
+        -47
+      ],
+      "counts": {
+        "circle": 3,
+        "heart": 3,
+        "triangle": 5,
+        "spade": 3,
+        "diamond": 3,
+        "moon": 1,
+        "play": 3,
+        "type": 4,
+        "squaresUnite": 2,
+        "chevronLast": 2
+      },
+      "boardShape": "diamond",
+      "rocks": [
+        {
+          "row": 5,
+          "col": 3,
+          "rockId": "bonus"
+        },
+        {
+          "row": 4,
+          "col": 1,
+          "rockId": "mixed"
+        },
+        {
+          "row": 1,
+          "col": 5,
+          "rockId": "mixed"
+        }
+      ]
+    },
+    {
+      "id": 153,
+      "starThresholds": [
+        119,
+        139,
+        151
+      ],
+      "counts": {
+        "heart": 3,
+        "triangle": 1,
+        "spade": 5,
+        "square": 3,
+        "moon": 1,
+        "play": 1,
+        "type": 5,
+        "squaresUnite": 2,
+        "sword": 2,
+        "chevronLast": 7
+      },
+      "boardShape": "cross",
+      "rocks": [
+        {
+          "row": 3,
+          "col": 5,
+          "rockId": "penalty"
+        },
+        {
+          "row": 2,
+          "col": 6,
+          "rockId": "penalty"
+        },
+        {
+          "row": 5,
+          "col": 1,
+          "rockId": "mixed"
+        },
+        {
+          "row": 5,
+          "col": 7,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 154,
+      "starThresholds": [
+        111,
+        129,
+        141
+      ],
+      "counts": {
+        "circle": 2,
+        "heart": 1,
+        "triangle": 3,
+        "diamond": 5,
+        "square": 4,
+        "play": 1,
+        "squaresUnite": 2,
+        "sword": 2,
+        "chevronLast": 4
+      },
+      "boardShape": "hallway"
+    },
+    {
+      "id": 155,
+      "starThresholds": [
+        165,
+        188,
+        202
+      ],
+      "counts": {
+        "circle": 3,
+        "heart": 2,
+        "triangle": 3,
+        "spade": 2,
+        "diamond": 5,
+        "square": 3,
+        "moon": 3,
+        "play": 3,
+        "squaresUnite": 4,
+        "sword": 5
+      },
+      "rocks": [
+        {
+          "row": 1,
+          "col": 5,
+          "rockId": "penalty"
+        },
+        {
+          "row": 6,
+          "col": 2,
+          "rockId": "bonus"
+        },
+        {
+          "row": 5,
+          "col": 1,
+          "rockId": "penalty"
+        },
+        {
+          "row": 2,
+          "col": 1,
+          "rockId": "bonus"
+        },
+        {
+          "row": 4,
+          "col": 3,
+          "rockId": "bonus"
+        }
+      ]
+    },
+    {
+      "id": 156,
+      "starThresholds": [
+        87,
+        108,
+        118
+      ],
+      "counts": {
+        "circle": 4,
+        "heart": 4,
+        "triangle": 2,
+        "spade": 3,
+        "diamond": 1,
+        "square": 3,
+        "moon": 5,
+        "squaresUnite": 1,
+        "sword": 4,
+        "chevronLast": 1
+      },
+      "boardShape": "plus"
+    },
+    {
+      "id": 157,
+      "starThresholds": [
+        74,
+        91,
+        100
+      ],
+      "counts": {
+        "circle": 2,
+        "heart": 1,
+        "triangle": 3,
+        "square": 3,
+        "play": 1,
+        "type": 2,
+        "squaresUnite": 1,
+        "sword": 2,
+        "trendingUp": 5
+      },
+      "boardShape": "diamond"
+    },
+    {
+      "id": 158,
+      "starThresholds": [
+        74,
+        89,
+        95
+      ],
+      "counts": {
+        "circle": 3,
+        "triangle": 2,
+        "diamond": 2,
+        "square": 1,
+        "play": 1,
+        "type": 5,
+        "sword": 5,
+        "chevronLast": 1,
+        "trendingUp": 1
+      },
+      "boardShape": "cross"
+    },
+    {
+      "id": 159,
+      "starThresholds": [
+        74,
+        88,
+        102
+      ],
+      "counts": {
+        "heart": 1,
+        "triangle": 3,
+        "spade": 3,
+        "diamond": 1,
+        "square": 1,
+        "moon": 1,
+        "play": 4,
+        "squaresUnite": 2,
+        "chevronLast": 3,
+        "trendingUp": 4
+      },
+      "boardShape": "hallway",
+      "rocks": [
+        {
+          "row": 4,
+          "col": 1,
+          "rockId": "penalty"
+        }
+      ]
+    },
+    {
+      "id": 160,
+      "starThresholds": [
+        11,
+        2,
+        -3
+      ],
+      "counts": {
+        "circle": 2,
+        "triangle": 1,
+        "spade": 1,
+        "play": 5,
+        "type": 4,
+        "squaresUnite": 4,
+        "sword": 1,
+        "chevronLast": 3,
+        "trendingUp": 3
+      },
+      "boardSize": 6,
+      "rocks": [
+        {
+          "row": 2,
+          "col": 1,
+          "rockId": "bonus"
+        }
+      ]
+    },
+    {
+      "id": 161,
+      "starThresholds": [
+        86,
+        108,
+        117
+      ],
+      "counts": {
+        "circle": 3,
+        "heart": 4,
+        "triangle": 3,
+        "spade": 1,
+        "square": 2,
+        "play": 2,
+        "type": 2,
+        "squaresUnite": 5,
+        "sword": 2,
+        "trendingUp": 1
+      },
+      "boardShape": "plus",
+      "rocks": [
+        {
+          "row": 4,
+          "col": 5,
+          "rockId": "penalty"
+        },
+        {
+          "row": 1,
+          "col": 4,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 162,
+      "starThresholds": [
+        99,
+        115,
+        125
+      ],
+      "counts": {
+        "circle": 2,
+        "heart": 1,
+        "triangle": 2,
+        "spade": 4,
+        "diamond": 2,
+        "moon": 5,
+        "play": 1,
+        "sword": 3,
+        "chevronLast": 4,
+        "trendingUp": 2
+      },
+      "boardShape": "diamond",
+      "rocks": [
+        {
+          "row": 2,
+          "col": 2,
+          "rockId": "bonus"
+        },
+        {
+          "row": 3,
+          "col": 3,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 163,
+      "starThresholds": [
+        115,
+        134,
+        143
+      ],
+      "counts": {
+        "circle": 5,
+        "triangle": 3,
+        "spade": 4,
+        "diamond": 3,
+        "square": 3,
+        "moon": 3,
+        "type": 1,
+        "squaresUnite": 2,
+        "chevronLast": 1,
+        "trendingUp": 3
+      },
+      "boardShape": "cross",
+      "rocks": [
+        {
+          "row": 5,
+          "col": 1,
+          "rockId": "mixed"
+        },
+        {
+          "row": 3,
+          "col": 3,
+          "rockId": "mixed"
+        },
+        {
+          "row": 3,
+          "col": 5,
+          "rockId": "penalty"
+        }
+      ]
+    },
+    {
+      "id": 164,
+      "starThresholds": [
+        2,
+        -15,
+        -23
+      ],
+      "counts": {
+        "circle": 2,
+        "heart": 3,
+        "triangle": 1,
+        "spade": 1,
+        "square": 2,
+        "play": 2,
+        "type": 4,
+        "squaresUnite": 4,
+        "sword": 3,
+        "trendingUp": 2
+      },
+      "boardShape": "hallway"
+    },
+    {
+      "id": 165,
+      "starThresholds": [
+        84,
+        104,
+        114
+      ],
+      "counts": {
+        "circle": 2,
+        "heart": 2,
+        "spade": 6,
+        "square": 1,
+        "moon": 5,
+        "play": 2,
+        "squaresUnite": 2,
+        "sword": 3,
+        "chevronLast": 2,
+        "trendingUp": 5
+      },
+      "boardSize": 6,
+      "rocks": [
+        {
+          "row": 4,
+          "col": 3,
+          "rockId": "bonus"
+        },
+        {
+          "row": 2,
+          "col": 4,
+          "rockId": "penalty"
+        },
+        {
+          "row": 4,
+          "col": 1,
+          "rockId": "penalty"
+        },
+        {
+          "row": 1,
+          "col": 3,
+          "rockId": "penalty"
+        }
+      ]
+    },
+    {
+      "id": 166,
+      "starThresholds": [
+        130,
+        146,
+        159
+      ],
+      "counts": {
+        "heart": 1,
+        "triangle": 9,
+        "spade": 2,
+        "diamond": 3,
+        "square": 2,
+        "moon": 2,
+        "type": 3,
+        "sword": 2,
+        "chevronLast": 3,
+        "trendingUp": 4
+      },
+      "boardShape": "cross",
+      "rocks": [
+        {
+          "row": 1,
+          "col": 4,
+          "rockId": "bonus"
+        },
+        {
+          "row": 2,
+          "col": 5,
+          "rockId": "penalty"
+        },
+        {
+          "row": 4,
+          "col": 1,
+          "rockId": "bonus"
+        },
+        {
+          "row": 3,
+          "col": 6,
+          "rockId": "bonus"
+        }
+      ]
+    },
+    {
+      "id": 167,
+      "starThresholds": [
+        79,
+        94,
+        102
+      ],
+      "counts": {
+        "circle": 3,
+        "spade": 3,
+        "diamond": 2,
+        "square": 1,
+        "moon": 2,
+        "play": 1,
+        "type": 2,
+        "sword": 2,
+        "chevronLast": 3,
+        "trendingUp": 5
+      },
+      "boardShape": "hallway"
+    },
+    {
+      "id": 168,
+      "starThresholds": [
+        179,
+        198,
+        207
+      ],
+      "counts": {
+        "circle": 3,
+        "heart": 2,
+        "triangle": 4,
+        "diamond": 2,
+        "square": 3,
+        "moon": 3,
+        "play": 5,
+        "squaresUnite": 2,
+        "chevronLast": 6,
+        "trendingUp": 4
+      },
+      "rocks": [
+        {
+          "row": 5,
+          "col": 5,
+          "rockId": "bonus"
+        },
+        {
+          "row": 4,
+          "col": 2,
+          "rockId": "penalty"
+        },
+        {
+          "row": 0,
+          "col": 2,
+          "rockId": "simple"
+        },
+        {
+          "row": 5,
+          "col": 3,
+          "rockId": "penalty"
+        },
+        {
+          "row": 1,
+          "col": 4,
+          "rockId": "bonus"
+        }
+      ]
+    },
+    {
+      "id": 169,
+      "starThresholds": [
+        64,
+        76,
+        84
+      ],
+      "counts": {
+        "triangle": 2,
+        "spade": 2,
+        "play": 1,
+        "type": 3,
+        "squaresUnite": 1,
+        "sword": 3,
+        "chevronLast": 4,
+        "trendingDown": 4
+      },
+      "boardShape": "plus"
+    },
+    {
+      "id": 170,
+      "starThresholds": [
+        63,
+        81,
+        90
+      ],
+      "counts": {
+        "triangle": 2,
+        "spade": 3,
+        "square": 2,
+        "moon": 5,
+        "play": 4,
+        "sword": 1,
+        "chevronLast": 1,
+        "trendingDown": 3
+      },
+      "boardShape": "diamond"
+    },
+    {
+      "id": 171,
+      "starThresholds": [
+        83,
+        96,
+        104
+      ],
+      "counts": {
+        "circle": 2,
+        "spade": 1,
+        "diamond": 2,
+        "moon": 1,
+        "type": 2,
+        "squaresUnite": 4,
+        "sword": 3,
+        "trendingUp": 6,
+        "trendingDown": 2
+      },
+      "boardShape": "cross",
+      "rocks": [
+        {
+          "row": 7,
+          "col": 5,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 172,
+      "starThresholds": [
+        12,
+        -1,
+        -10
+      ],
+      "counts": {
+        "heart": 2,
+        "spade": 2,
+        "diamond": 4,
+        "square": 1,
+        "play": 3,
+        "squaresUnite": 3,
+        "sword": 2,
+        "chevronLast": 2,
+        "trendingUp": 3,
+        "trendingDown": 2
+      },
+      "boardShape": "hallway"
+    },
+    {
+      "id": 173,
+      "starThresholds": [
+        110,
+        128,
+        139
+      ],
+      "counts": {
+        "heart": 1,
+        "triangle": 5,
+        "spade": 3,
+        "diamond": 2,
+        "square": 3,
+        "play": 3,
+        "type": 1,
+        "squaresUnite": 3,
+        "sword": 1,
+        "chevronLast": 3
+      },
+      "rocks": [
+        {
+          "row": 1,
+          "col": 2,
+          "rockId": "penalty"
+        },
+        {
+          "row": 2,
+          "col": 3,
+          "rockId": "bonus"
+        }
+      ]
+    },
+    {
+      "id": 174,
+      "starThresholds": [
+        85,
+        98,
+        106
+      ],
+      "counts": {
+        "circle": 3,
+        "triangle": 1,
+        "spade": 4,
+        "diamond": 5,
+        "square": 1,
+        "moon": 3,
+        "squaresUnite": 1,
+        "chevronLast": 5,
+        "trendingUp": 1,
+        "trendingDown": 2
+      },
+      "boardShape": "plus",
+      "rocks": [
+        {
+          "row": 4,
+          "col": 6,
+          "rockId": "mixed"
+        },
+        {
+          "row": 5,
+          "col": 4,
+          "rockId": "bonus"
+        }
+      ]
+    },
+    {
+      "id": 175,
+      "starThresholds": [
+        112,
+        131,
+        137
+      ],
+      "counts": {
+        "circle": 3,
+        "heart": 2,
+        "triangle": 4,
+        "spade": 1,
+        "moon": 5,
+        "play": 2,
+        "type": 1,
+        "squaresUnite": 2,
+        "chevronLast": 5,
+        "trendingDown": 3
+      },
+      "boardShape": "diamond",
+      "rocks": [
+        {
+          "row": 6,
+          "col": 4,
+          "rockId": "penalty"
+        },
+        {
+          "row": 2,
+          "col": 6,
+          "rockId": "penalty"
+        },
+        {
+          "row": 1,
+          "col": 3,
+          "rockId": "bonus"
+        }
+      ]
+    },
+    {
+      "id": 176,
+      "starThresholds": [
+        -35,
+        -49,
+        -55
+      ],
+      "counts": {
+        "circle": 4,
+        "heart": 1,
+        "triangle": 3,
+        "spade": 5,
+        "diamond": 6,
+        "moon": 2,
+        "sword": 2,
+        "chevronLast": 3,
+        "trendingUp": 1,
+        "trendingDown": 2
+      },
+      "boardShape": "cross",
+      "rocks": [
+        {
+          "row": 4,
+          "col": 2,
+          "rockId": "bonus"
+        },
+        {
+          "row": 5,
+          "col": 4,
+          "rockId": "penalty"
+        },
+        {
+          "row": 2,
+          "col": 3,
+          "rockId": "penalty"
+        }
+      ]
+    },
+    {
+      "id": 177,
+      "starThresholds": [
+        71,
+        87,
+        101
+      ],
+      "counts": {
+        "circle": 5,
+        "heart": 1,
+        "spade": 3,
+        "diamond": 2,
+        "moon": 2,
+        "squaresUnite": 2,
+        "sword": 2,
+        "chevronLast": 4,
+        "trendingDown": 3
+      },
+      "boardShape": "hallway"
+    },
+    {
+      "id": 178,
+      "starThresholds": [
+        111,
+        127,
+        136
+      ],
+      "counts": {
+        "circle": 3,
+        "heart": 5,
+        "diamond": 2,
+        "moon": 2,
+        "type": 4,
+        "sword": 6,
+        "chevronLast": 4,
+        "trendingUp": 1,
+        "trendingDown": 4
+      },
+      "rocks": [
+        {
+          "row": 3,
+          "col": 4,
+          "rockId": "mixed"
+        },
+        {
+          "row": 2,
+          "col": 5,
+          "rockId": "mixed"
+        },
+        {
+          "row": 5,
+          "col": 3,
+          "rockId": "mixed"
+        },
+        {
+          "row": 2,
+          "col": 3,
+          "rockId": "mixed"
+        }
+      ]
+    },
+    {
+      "id": 179,
+      "starThresholds": [
+        136,
+        153,
+        160
+      ],
+      "counts": {
+        "circle": 2,
+        "heart": 2,
+        "diamond": 1,
+        "square": 5,
+        "play": 2,
+        "type": 4,
+        "squaresUnite": 2,
+        "chevronLast": 5,
+        "trendingUp": 3,
+        "trendingDown": 2
+      },
+      "boardShape": "plus"
+    },
+    {
+      "id": 180,
+      "starThresholds": [
+        128,
+        153,
+        165
+      ],
+      "counts": {
+        "circle": 5,
+        "spade": 2,
+        "diamond": 3,
+        "square": 2,
+        "moon": 2,
+        "play": 6,
+        "type": 3,
+        "squaresUnite": 3,
+        "sword": 5,
+        "trendingDown": 3
+      },
+      "boardShape": "diamond",
+      "rocks": [
+        {
+          "row": 2,
+          "col": 4,
+          "rockId": "mixed"
+        },
+        {
+          "row": 6,
+          "col": 5,
+          "rockId": "mixed"
+        },
+        {
+          "row": 3,
+          "col": 5,
+          "rockId": "simple"
+        },
+        {
+          "row": 1,
+          "col": 2,
+          "rockId": "penalty"
+        },
+        {
+          "row": 4,
+          "col": 2,
+          "rockId": "mixed"
+        }
+      ]
+    },
+    {
+      "id": 181,
+      "starThresholds": [
+        75,
+        92,
+        107
+      ],
+      "counts": {
+        "circle": 2,
+        "triangle": 1,
+        "spade": 2,
+        "diamond": 2,
+        "moon": 4,
+        "play": 2,
+        "type": 1,
+        "squaresUnite": 2,
+        "sword": 3,
+        "trendingUp": 1
+      },
+      "boardShape": "diagonal",
+      "rocks": [
+        {
+          "row": 4,
+          "col": 2,
+          "rockId": "ice"
+        }
+      ]
+    },
+    {
+      "id": 182,
+      "starThresholds": [
+        72,
+        89,
+        100
+      ],
+      "counts": {
+        "circle": 2,
+        "heart": 2,
+        "triangle": 4,
+        "spade": 2,
+        "square": 1,
+        "play": 1,
+        "type": 3,
+        "squaresUnite": 3,
+        "chevronLast": 1,
+        "trendingUp": 2
+      },
+      "boardShape": "diagonal",
+      "rocks": [
+        {
+          "row": 1,
+          "col": 2,
+          "rockId": "ice"
+        }
+      ]
+    },
+    {
+      "id": 183,
+      "starThresholds": [
+        74,
+        90,
+        99
+      ],
+      "counts": {
+        "heart": 1,
+        "triangle": 3,
+        "square": 1,
+        "moon": 1,
+        "play": 2,
+        "type": 4,
+        "sword": 7,
+        "chevronLast": 2,
+        "trendingUp": 2
+      },
+      "boardShape": "diagonal",
+      "rocks": [
+        {
+          "row": 4,
+          "col": 1,
+          "rockId": "ice"
+        },
+        {
+          "row": 1,
+          "col": 3,
+          "rockId": "bonus"
+        }
+      ]
+    },
+    {
+      "id": 184,
+      "starThresholds": [
+        -30,
+        -42,
+        -50
+      ],
+      "counts": {
+        "circle": 1,
+        "heart": 2,
+        "spade": 1,
+        "diamond": 1,
+        "square": 1,
+        "moon": 3,
+        "play": 5,
+        "squaresUnite": 3,
+        "trendingUp": 1,
+        "trendingDown": 6
+      },
+      "boardShape": "diagonal",
+      "rocks": [
+        {
+          "row": 2,
+          "col": 4,
+          "rockId": "ice"
+        },
+        {
+          "row": 5,
+          "col": 0,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 185,
+      "starThresholds": [
+        100,
+        114,
+        124
+      ],
+      "counts": {
+        "heart": 4,
+        "triangle": 2,
+        "spade": 2,
+        "square": 2,
+        "moon": 2,
+        "play": 2,
+        "type": 5,
+        "squaresUnite": 2,
+        "trendingUp": 4
+      },
+      "boardShape": "diamond",
+      "rocks": [
+        {
+          "row": 4,
+          "col": 4,
+          "rockId": "simple"
+        },
+        {
+          "row": 6,
+          "col": 2,
+          "rockId": "bonus"
+        }
+      ]
+    },
+    {
+      "id": 186,
+      "starThresholds": [
+        140,
+        166,
+        175
+      ],
+      "counts": {
+        "circle": 4,
+        "triangle": 1,
+        "moon": 3,
+        "play": 4,
+        "type": 6,
+        "squaresUnite": 3,
+        "sword": 1,
+        "chevronLast": 1,
+        "trendingDown": 3
+      },
+      "boardSize": 6,
+      "rocks": [
+        {
+          "row": 2,
+          "col": 2,
+          "rockId": "ice"
+        },
+        {
+          "row": 4,
+          "col": 4,
+          "rockId": "penalty"
+        }
+      ]
+    },
+    {
+      "id": 187,
+      "starThresholds": [
+        94,
+        112,
+        125
+      ],
+      "counts": {
+        "circle": 5,
+        "heart": 1,
+        "spade": 2,
+        "square": 3,
+        "moon": 3,
+        "play": 3,
+        "squaresUnite": 3,
+        "sword": 3,
+        "trendingUp": 1
+      },
+      "boardShape": "hallway"
+    },
+    {
+      "id": 188,
+      "starThresholds": [
+        -29,
+        -39,
+        -45
+      ],
+      "counts": {
+        "heart": 2,
+        "triangle": 3,
+        "square": 4,
+        "moon": 2,
+        "type": 5,
+        "squaresUnite": 1,
+        "sword": 2,
+        "chevronLast": 4,
+        "trendingDown": 6
+      },
+      "boardShape": "diagonal",
+      "rocks": [
+        {
+          "row": 4,
+          "col": 5,
+          "rockId": "bonus"
+        },
+        {
+          "row": 6,
+          "col": 7,
+          "rockId": "simple"
+        },
+        {
+          "row": 5,
+          "col": 1,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 189,
+      "starThresholds": [
+        142,
+        164,
+        177
+      ],
+      "counts": {
+        "circle": 4,
+        "triangle": 1,
+        "diamond": 5,
+        "square": 2,
+        "moon": 6,
+        "sword": 3,
+        "chevronLast": 3,
+        "trendingUp": 2,
+        "trendingDown": 4
+      },
+      "boardShape": "cross",
+      "rocks": [
+        {
+          "row": 3,
+          "col": 6,
+          "rockId": "simple"
+        },
+        {
+          "row": 2,
+          "col": 2,
+          "rockId": "simple"
+        },
+        {
+          "row": 6,
+          "col": 4,
+          "rockId": "mixed"
+        },
+        {
+          "row": 1,
+          "col": 3,
+          "rockId": "ice"
+        }
+      ]
+    },
+    {
+      "id": 190,
+      "starThresholds": [
+        81,
+        97,
+        104
+      ],
+      "counts": {
+        "triangle": 2,
+        "spade": 2,
+        "diamond": 3,
+        "moon": 1,
+        "play": 2,
+        "type": 3,
+        "squaresUnite": 5,
+        "sword": 1,
+        "trendingUp": 3,
+        "trendingDown": 2
+      },
+      "boardShape": "hallway"
+    },
+    {
+      "id": 191,
+      "starThresholds": [
+        139,
+        160,
+        172
+      ],
+      "counts": {
+        "heart": 3,
+        "triangle": 5,
+        "square": 3,
+        "moon": 1,
+        "play": 6,
+        "squaresUnite": 5,
+        "sword": 3,
+        "chevronLast": 2,
+        "trendingUp": 4,
+        "trendingDown": 1
+      },
+      "rocks": [
+        {
+          "row": 2,
+          "col": 6,
+          "rockId": "mixed"
+        },
+        {
+          "row": 5,
+          "col": 2,
+          "rockId": "simple"
+        },
+        {
+          "row": 3,
+          "col": 5,
+          "rockId": "simple"
+        },
+        {
+          "row": 2,
+          "col": 4,
+          "rockId": "bonus"
+        },
+        {
+          "row": 1,
+          "col": 1,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 192,
+      "starThresholds": [
+        89,
+        104,
+        112
+      ],
+      "counts": {
+        "circle": 5,
+        "triangle": 5,
+        "spade": 1,
+        "diamond": 5,
+        "moon": 3,
+        "type": 1,
+        "squaresUnite": 2,
+        "sword": 4,
+        "trendingUp": 2
+      },
+      "boardShape": "plus"
+    },
+    {
+      "id": 193,
+      "starThresholds": [
+        72,
+        88,
+        97
+      ],
+      "counts": {
+        "circle": 2,
+        "triangle": 5,
+        "spade": 3,
+        "diamond": 2,
+        "squaresUnite": 2,
+        "sword": 1,
+        "chartNoAxesColumnIncreasing": 2,
+        "trendingUp": 3
+      },
+      "boardShape": "diamond"
+    },
+    {
+      "id": 194,
+      "starThresholds": [
+        80,
+        100,
+        109
+      ],
+      "counts": {
+        "circle": 3,
+        "spade": 3,
+        "square": 1,
+        "play": 2,
+        "squaresUnite": 3,
+        "sword": 2,
+        "chartNoAxesColumnIncreasing": 3,
+        "trendingUp": 4
+      },
+      "boardShape": "cross"
+    },
+    {
+      "id": 195,
+      "starThresholds": [
+        103,
+        114,
+        125
+      ],
+      "counts": {
+        "diamond": 4,
+        "square": 2,
+        "moon": 1,
+        "play": 1,
+        "type": 5,
+        "sword": 2,
+        "chevronLast": 2,
+        "chartNoAxesColumnIncreasing": 3,
+        "trendingDown": 3
+      },
+      "boardShape": "hallway",
+      "rocks": [
+        {
+          "row": 3,
+          "col": 6,
+          "rockId": "penalty"
+        }
+      ]
+    },
+    {
+      "id": 196,
+      "starThresholds": [
+        -63,
+        -74,
+        -80
+      ],
+      "counts": {
+        "circle": 1,
+        "triangle": 1,
+        "spade": 4,
+        "square": 3,
+        "play": 4,
+        "type": 1,
+        "sword": 5,
+        "chartNoAxesColumnIncreasing": 3,
+        "trendingUp": 2
+      },
+      "boardShape": "diagonal",
+      "rocks": [
+        {
+          "row": 1,
+          "col": 6,
+          "rockId": "mixed"
+        }
+      ]
+    },
+    {
+      "id": 197,
+      "starThresholds": [
+        67,
+        87,
+        101
+      ],
+      "counts": {
+        "heart": 4,
+        "spade": 3,
+        "square": 3,
+        "moon": 3,
+        "play": 2,
+        "squaresUnite": 2,
+        "sword": 2,
+        "chevronLast": 2,
+        "trendingUp": 2,
+        "trendingDown": 2
+      },
+      "boardShape": "plus",
+      "rocks": [
+        {
+          "row": 6,
+          "col": 3,
+          "rockId": "ice"
+        },
+        {
+          "row": 3,
+          "col": 6,
+          "rockId": "penalty"
+        }
+      ]
+    },
+    {
+      "id": 198,
+      "starThresholds": [
+        92,
+        108,
+        114
+      ],
+      "counts": {
+        "heart": 2,
+        "triangle": 2,
+        "spade": 2,
+        "square": 4,
+        "moon": 4,
+        "play": 2,
+        "chevronLast": 4,
+        "chartNoAxesColumnIncreasing": 2,
+        "trendingUp": 4
+      },
+      "boardShape": "diamond",
+      "rocks": [
+        {
+          "row": 2,
+          "col": 4,
+          "rockId": "penalty"
+        },
+        {
+          "row": 4,
+          "col": 1,
+          "rockId": "penalty"
+        }
+      ]
+    },
+    {
+      "id": 199,
+      "starThresholds": [
+        116,
+        135,
+        144
+      ],
+      "counts": {
+        "heart": 2,
+        "triangle": 4,
+        "diamond": 2,
+        "square": 4,
+        "moon": 4,
+        "type": 3,
+        "squaresUnite": 1,
+        "sword": 4,
+        "chartNoAxesColumnIncreasing": 1,
+        "trendingUp": 3
+      },
+      "rocks": [
+        {
+          "row": 5,
+          "col": 1,
+          "rockId": "bonus"
+        },
+        {
+          "row": 6,
+          "col": 5,
+          "rockId": "bonus"
+        },
+        {
+          "row": 2,
+          "col": 2,
+          "rockId": "mixed"
+        }
+      ]
+    },
+    {
+      "id": 200,
+      "starThresholds": [
+        31,
+        19,
+        13
+      ],
+      "counts": {
+        "circle": 1,
+        "heart": 6,
+        "triangle": 3,
+        "diamond": 2,
+        "moon": 3,
+        "squaresUnite": 4,
+        "chevronLast": 2,
+        "trendingUp": 2,
+        "trendingDown": 1
+      },
+      "boardShape": "hallway"
+    },
+    {
+      "id": 201,
+      "starThresholds": [
+        135,
+        149,
+        154
+      ],
+      "counts": {
+        "circle": 3,
+        "triangle": 3,
+        "spade": 1,
+        "diamond": 6,
+        "moon": 4,
+        "play": 2,
+        "type": 2,
+        "squaresUnite": 1,
+        "sword": 2,
+        "chevronLast": 6
+      },
+      "boardShape": "diagonal",
+      "rocks": [
+        {
+          "row": 1,
+          "col": 5,
+          "rockId": "penalty"
+        },
+        {
+          "row": 6,
+          "col": 3,
+          "rockId": "bonus"
+        },
+        {
+          "row": 3,
+          "col": 2,
+          "rockId": "penalty"
+        },
+        {
+          "row": 1,
+          "col": 2,
+          "rockId": "bonus"
+        }
+      ]
+    },
+    {
+      "id": 202,
+      "starThresholds": [
+        142,
+        160,
+        170
+      ],
+      "counts": {
+        "heart": 3,
+        "spade": 5,
+        "diamond": 2,
+        "square": 2,
+        "type": 3,
+        "squaresUnite": 3,
+        "chevronLast": 4,
+        "chartNoAxesColumnIncreasing": 3,
+        "trendingUp": 4,
+        "trendingDown": 2
+      },
+      "boardShape": "cross",
+      "rocks": [
+        {
+          "row": 0,
+          "col": 3,
+          "rockId": "simple"
+        },
+        {
+          "row": 4,
+          "col": 4,
+          "rockId": "bonus"
+        },
+        {
+          "row": 5,
+          "col": 6,
+          "rockId": "bonus"
+        },
+        {
+          "row": 6,
+          "col": 4,
+          "rockId": "penalty"
+        }
+      ]
+    },
+    {
+      "id": 203,
+      "starThresholds": [
+        139,
+        155,
+        164
+      ],
+      "counts": {
+        "heart": 3,
+        "triangle": 3,
+        "diamond": 6,
+        "type": 3,
+        "squaresUnite": 2,
+        "sword": 4,
+        "chevronLast": 3,
+        "trendingUp": 4,
+        "trendingDown": 5
+      },
+      "boardShape": "diamond",
+      "rocks": [
+        {
+          "row": 4,
+          "col": 1,
+          "rockId": "bonus"
+        },
+        {
+          "row": 5,
+          "col": 6,
+          "rockId": "penalty"
+        },
+        {
+          "row": 4,
+          "col": 7,
+          "rockId": "simple"
+        },
+        {
+          "row": 1,
+          "col": 5,
+          "rockId": "bonus"
+        },
+        {
+          "row": 4,
+          "col": 5,
+          "rockId": "penalty"
+        }
+      ]
+    },
+    {
+      "id": 204,
+      "starThresholds": [
+        34,
+        44,
+        49
+      ],
+      "counts": {
+        "circle": 1,
+        "triangle": 2,
+        "spade": 5,
+        "moon": 1,
+        "type": 1,
+        "squaresUnite": 1,
+        "chevronLast": 2,
+        "chartNoAxesColumnIncreasing": 2,
+        "trendingDown": 1
+      },
+      "boardSize": 4
+    },
+    {
+      "id": 205,
+      "starThresholds": [
+        65,
+        80,
+        87
+      ],
+      "counts": {
+        "circle": 3,
+        "spade": 3,
+        "diamond": 1,
+        "play": 2,
+        "type": 5,
+        "chartNoAxesColumnIncreasing": 3,
+        "trendingDown": 3
+      },
+      "boardShape": "plus",
+      "rocks": [
+        {
+          "row": 3,
+          "col": 3,
+          "rockId": "twin"
+        },
+        {
+          "row": 4,
+          "col": 4,
+          "rockId": "twin"
+        }
+      ]
+    },
+    {
+      "id": 206,
+      "starThresholds": [
+        86,
+        106,
+        116
+      ],
+      "counts": {
+        "circle": 2,
+        "heart": 1,
+        "spade": 2,
+        "diamond": 2,
+        "moon": 4,
+        "play": 1,
+        "sword": 2,
+        "chevronLast": 1,
+        "chartNoAxesColumnIncreasing": 4,
+        "trendingUp": 2
+      },
+      "boardShape": "diagonal",
+      "rocks": [
+        {
+          "row": 1,
+          "col": 6,
+          "rockId": "twin"
+        },
+        {
+          "row": 6,
+          "col": 1,
+          "rockId": "twin"
+        }
+      ]
+    },
+    {
+      "id": 207,
+      "starThresholds": [
+        118,
+        134,
+        146
+      ],
+      "counts": {
+        "circle": 1,
+        "heart": 1,
+        "triangle": 1,
+        "spade": 2,
+        "diamond": 2,
+        "moon": 6,
+        "play": 3,
+        "chevronLast": 2,
+        "chartNoAxesColumnIncreasing": 5
+      },
+      "boardShape": "cross",
+      "rocks": [
+        {
+          "row": 3,
+          "col": 5,
+          "rockId": "twin"
+        },
+        {
+          "row": 4,
+          "col": 2,
+          "rockId": "twin"
+        },
+        {
+          "row": 4,
+          "col": 7,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 208,
+      "starThresholds": [
+        73,
+        60,
+        54
+      ],
+      "counts": {
+        "circle": 2,
+        "heart": 2,
+        "triangle": 2,
+        "diamond": 5,
+        "square": 3,
+        "moon": 1,
+        "squaresUnite": 3,
+        "chevronLast": 4,
+        "trendingUp": 2
+      },
+      "boardShape": "hallway"
+    },
+    {
+      "id": 209,
+      "starThresholds": [
+        110,
+        131,
+        139
+      ],
+      "counts": {
+        "circle": 2,
+        "heart": 1,
+        "spade": 1,
+        "diamond": 5,
+        "square": 2,
+        "play": 3,
+        "sword": 3,
+        "chevronLast": 3,
+        "chartNoAxesColumnIncreasing": 1,
+        "trendingDown": 4
+      },
+      "boardSize": 6,
+      "rocks": [
+        {
+          "row": 2,
+          "col": 1,
+          "rockId": "twin"
+        },
+        {
+          "row": 3,
+          "col": 4,
+          "rockId": "twin"
+        },
+        {
+          "row": 1,
+          "col": 4,
+          "rockId": "penalty"
+        }
+      ]
+    },
+    {
+      "id": 210,
+      "starThresholds": [
+        78,
+        93,
+        101
+      ],
+      "counts": {
+        "circle": 3,
+        "triangle": 3,
+        "spade": 4,
+        "diamond": 3,
+        "square": 4,
+        "moon": 1,
+        "play": 3,
+        "chevronLast": 2,
+        "trendingDown": 3
+      },
+      "boardShape": "plus",
+      "rocks": [
+        {
+          "row": 6,
+          "col": 4,
+          "rockId": "penalty"
+        },
+        {
+          "row": 2,
+          "col": 4,
+          "rockId": "mixed"
+        }
+      ]
+    },
+    {
+      "id": 211,
+      "starThresholds": [
+        178,
+        200,
+        211
+      ],
+      "counts": {
+        "circle": 1,
+        "triangle": 1,
+        "square": 2,
+        "play": 7,
+        "type": 2,
+        "squaresUnite": 4,
+        "chevronLast": 4,
+        "chartNoAxesColumnIncreasing": 4,
+        "trendingUp": 1,
+        "trendingDown": 2
+      },
+      "boardShape": "diamond",
+      "rocks": [
+        {
+          "row": 2,
+          "col": 3,
+          "rockId": "twin"
+        },
+        {
+          "row": 5,
+          "col": 4,
+          "rockId": "twin"
+        },
+        {
+          "row": 5,
+          "col": 1,
+          "rockId": "ice"
+        },
+        {
+          "row": 1,
+          "col": 2,
+          "rockId": "mixed"
+        }
+      ]
+    },
+    {
+      "id": 212,
+      "starThresholds": [
+        44,
+        32,
+        25
+      ],
+      "counts": {
+        "diamond": 4,
+        "square": 1,
+        "moon": 5,
+        "play": 4,
+        "type": 5,
+        "squaresUnite": 1,
+        "chevronLast": 2,
+        "chartNoAxesColumnIncreasing": 3,
+        "trendingUp": 2,
+        "trendingDown": 2
+      },
+      "boardShape": "cross",
+      "rocks": [
+        {
+          "row": 3,
+          "col": 5,
+          "rockId": "twin"
+        },
+        {
+          "row": 4,
+          "col": 2,
+          "rockId": "twin"
+        },
+        {
+          "row": 5,
+          "col": 6,
+          "rockId": "ice"
+        },
+        {
+          "row": 5,
+          "col": 0,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 213,
+      "starThresholds": [
+        76,
+        94,
+        102
+      ],
+      "counts": {
+        "circle": 2,
+        "heart": 3,
+        "triangle": 3,
+        "moon": 3,
+        "play": 4,
+        "type": 2,
+        "sword": 4,
+        "chevronLast": 2,
+        "trendingDown": 1
+      },
+      "boardShape": "hallway"
+    },
+    {
+      "id": 214,
+      "starThresholds": [
+        133,
+        160,
+        175
+      ],
+      "counts": {
+        "heart": 3,
+        "triangle": 3,
+        "square": 2,
+        "moon": 2,
+        "play": 5,
+        "sword": 5,
+        "chevronLast": 3,
+        "chartNoAxesColumnIncreasing": 3,
+        "trendingDown": 5
+      },
+      "boardShape": "diagonal",
+      "rocks": [
+        {
+          "row": 4,
+          "col": 3,
+          "rockId": "mixed"
+        },
+        {
+          "row": 0,
+          "col": 2,
+          "rockId": "twin"
+        },
+        {
+          "row": 7,
+          "col": 5,
+          "rockId": "twin"
+        },
+        {
+          "row": 0,
+          "col": 7,
+          "rockId": "simple"
+        },
+        {
+          "row": 3,
+          "col": 6,
+          "rockId": "ice"
+        }
+      ]
+    },
+    {
+      "id": 215,
+      "starThresholds": [
+        171,
+        201,
+        219
+      ],
+      "counts": {
+        "circle": 5,
+        "heart": 2,
+        "triangle": 5,
+        "diamond": 3,
+        "square": 4,
+        "moon": 3,
+        "sword": 4,
+        "chartNoAxesColumnIncreasing": 2,
+        "trendingUp": 5
+      },
+      "boardShape": "cross",
+      "rocks": [
+        {
+          "row": 2,
+          "col": 3,
+          "rockId": "twin"
+        },
+        {
+          "row": 5,
+          "col": 4,
+          "rockId": "twin"
+        },
+        {
+          "row": 3,
+          "col": 1,
+          "rockId": "ice"
+        },
+        {
+          "row": 4,
+          "col": 2,
+          "rockId": "simple"
+        },
+        {
+          "row": 5,
+          "col": 1,
+          "rockId": "bonus"
+        },
+        {
+          "row": 1,
+          "col": 4,
+          "rockId": "twin"
+        },
+        {
+          "row": 6,
+          "col": 3,
+          "rockId": "twin"
+        }
+      ]
+    },
+    {
+      "id": 216,
+      "starThresholds": [
+        137,
+        164,
+        179
+      ],
+      "counts": {
+        "circle": 3,
+        "spade": 4,
+        "diamond": 2,
+        "play": 3,
+        "type": 2,
+        "squaresUnite": 4,
+        "sword": 6,
+        "chevronLast": 3,
+        "chartNoAxesColumnIncreasing": 1,
+        "trendingDown": 6
+      },
+      "boardShape": "diamond",
+      "rocks": [
+        {
+          "row": 1,
+          "col": 3,
+          "rockId": "ice"
+        },
+        {
+          "row": 5,
+          "col": 3,
+          "rockId": "ice"
+        },
+        {
+          "row": 4,
+          "col": 2,
+          "rockId": "mixed"
+        },
+        {
+          "row": 2,
+          "col": 2,
+          "rockId": "bonus"
+        },
+        {
+          "row": 2,
+          "col": 4,
+          "rockId": "penalty"
+        }
+      ]
+    },
+    {
+      "id": 217,
+      "starThresholds": [
+        65,
+        76,
+        82
+      ],
+      "counts": {
+        "heart": 1,
+        "triangle": 3,
+        "cornerDownRight": 5,
+        "squaresUnite": 2,
+        "chevronLast": 1,
+        "chartNoAxesColumnIncreasing": 3,
+        "trendingUp": 2,
+        "trendingDown": 3
+      },
+      "boardShape": "x"
+    },
+    {
+      "id": 218,
+      "starThresholds": [
+        59,
+        71,
+        77
+      ],
+      "counts": {
+        "triangle": 2,
+        "square": 3,
+        "cornerDownRight": 3,
+        "moon": 3,
+        "play": 2,
+        "sword": 3,
+        "chevronLast": 2,
+        "chartNoAxesColumnIncreasing": 1,
+        "trendingUp": 2
+      },
+      "boardShape": "x"
+    },
+    {
+      "id": 219,
+      "starThresholds": [
+        107,
+        122,
+        131
+      ],
+      "counts": {
+        "circle": 1,
+        "heart": 1,
+        "spade": 2,
+        "diamond": 3,
+        "square": 5,
+        "cornerDownRight": 2,
+        "squaresUnite": 3,
+        "chevronLast": 2,
+        "chartNoAxesColumnIncreasing": 3,
+        "trendingUp": 1
+      },
+      "boardShape": "x",
+      "rocks": [
+        {
+          "row": 2,
+          "col": 3,
+          "rockId": "mixed"
+        }
+      ]
+    },
+    {
+      "id": 220,
+      "starThresholds": [
+        9,
+        1,
+        -3
+      ],
+      "counts": {
+        "circle": 3,
+        "diamond": 3,
+        "cornerDownRight": 6,
+        "moon": 4,
+        "play": 1,
+        "chevronLast": 4,
+        "chartNoAxesColumnIncreasing": 2,
+        "trendingUp": 1
+      },
+      "boardShape": "x",
+      "rocks": [
+        {
+          "row": 6,
+          "col": 5,
+          "rockId": "penalty"
+        }
+      ]
+    },
+    {
+      "id": 221,
+      "starThresholds": [
+        85,
+        103,
+        112
+      ],
+      "counts": {
+        "circle": 2,
+        "spade": 5,
+        "square": 3,
+        "moon": 3,
+        "play": 1,
+        "type": 1,
+        "sword": 3,
+        "chartNoAxesColumnIncreasing": 2,
+        "trendingUp": 5
+      },
+      "boardShape": "diamond",
+      "rocks": [
+        {
+          "row": 5,
+          "col": 2,
+          "rockId": "penalty"
+        },
+        {
+          "row": 5,
+          "col": 6,
+          "rockId": "bonus"
+        }
+      ]
+    },
+    {
+      "id": 222,
+      "starThresholds": [
+        113,
+        142,
+        160
+      ],
+      "counts": {
+        "circle": 5,
+        "heart": 1,
+        "triangle": 2,
+        "cornerDownRight": 2,
+        "play": 4,
+        "type": 2,
+        "squaresUnite": 3,
+        "sword": 2,
+        "chartNoAxesColumnIncreasing": 3,
+        "trendingDown": 2
+      },
+      "rocks": [
+        {
+          "row": 2,
+          "col": 2,
+          "rockId": "ice"
+        },
+        {
+          "row": 4,
+          "col": 7,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 223,
+      "starThresholds": [
+        104,
+        122,
+        132
+      ],
+      "counts": {
+        "heart": 2,
+        "triangle": 2,
+        "diamond": 8,
+        "cornerDownRight": 2,
+        "moon": 1,
+        "squaresUnite": 3,
+        "sword": 5,
+        "trendingUp": 5
+      },
+      "boardShape": "plus"
+    },
+    {
+      "id": 224,
+      "starThresholds": [
+        -66,
+        -79,
+        -87
+      ],
+      "counts": {
+        "heart": 4,
+        "triangle": 5,
+        "spade": 6,
+        "diamond": 1,
+        "moon": 3,
+        "play": 4,
+        "type": 1,
+        "sword": 2,
+        "chevronLast": 2,
+        "chartNoAxesColumnIncreasing": 1
+      },
+      "boardShape": "diagonal",
+      "rocks": [
+        {
+          "row": 0,
+          "col": 7,
+          "rockId": "simple"
+        },
+        {
+          "row": 4,
+          "col": 2,
+          "rockId": "mixed"
+        },
+        {
+          "row": 1,
+          "col": 4,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 225,
+      "starThresholds": [
+        168,
+        201,
+        214
+      ],
+      "counts": {
+        "circle": 4,
+        "heart": 2,
+        "triangle": 2,
+        "diamond": 3,
+        "square": 4,
+        "moon": 3,
+        "type": 2,
+        "sword": 4,
+        "chartNoAxesColumnIncreasing": 3,
+        "trendingDown": 3
+      },
+      "boardShape": "cross",
+      "rocks": [
+        {
+          "row": 1,
+          "col": 5,
+          "rockId": "penalty"
+        },
+        {
+          "row": 3,
+          "col": 2,
+          "rockId": "twin"
+        },
+        {
+          "row": 4,
+          "col": 5,
+          "rockId": "twin"
+        },
+        {
+          "row": 2,
+          "col": 4,
+          "rockId": "ice"
+        },
+        {
+          "row": 2,
+          "col": 0,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 226,
+      "starThresholds": [
+        167,
+        193,
+        207
+      ],
+      "counts": {
+        "circle": 4,
+        "heart": 2,
+        "triangle": 4,
+        "spade": 4,
+        "diamond": 5,
+        "square": 5,
+        "cornerDownRight": 2,
+        "play": 1,
+        "squaresUnite": 3,
+        "trendingUp": 1
+      },
+      "boardShape": "diamond",
+      "rocks": [
+        {
+          "row": 3,
+          "col": 3,
+          "rockId": "mixed"
+        },
+        {
+          "row": 2,
+          "col": 6,
+          "rockId": "ice"
+        },
+        {
+          "row": 5,
+          "col": 2,
+          "rockId": "simple"
+        },
+        {
+          "row": 1,
+          "col": 2,
+          "rockId": "bonus"
+        }
+      ]
+    },
+    {
+      "id": 227,
+      "starThresholds": [
+        157,
+        177,
+        187
+      ],
+      "counts": {
+        "diamond": 4,
+        "square": 7,
+        "play": 3,
+        "type": 1,
+        "squaresUnite": 5,
+        "sword": 3,
+        "chevronLast": 1,
+        "chartNoAxesColumnIncreasing": 2,
+        "trendingUp": 3,
+        "trendingDown": 4
+      },
+      "boardShape": "x",
+      "rocks": [
+        {
+          "row": 0,
+          "col": 3,
+          "rockId": "simple"
+        },
+        {
+          "row": 2,
+          "col": 1,
+          "rockId": "twin"
+        },
+        {
+          "row": 5,
+          "col": 6,
+          "rockId": "twin"
+        },
+        {
+          "row": 5,
+          "col": 1,
+          "rockId": "bonus"
+        },
+        {
+          "row": 5,
+          "col": 4,
+          "rockId": "penalty"
+        },
+        {
+          "row": 1,
+          "col": 4,
+          "rockId": "mixed"
+        }
+      ]
+    },
+    {
+      "id": 228,
+      "starThresholds": [
+        130,
+        144,
+        151
+      ],
+      "counts": {
+        "circle": 4,
+        "heart": 2,
+        "triangle": 2,
+        "spade": 1,
+        "diamond": 3,
+        "play": 6,
+        "type": 2,
+        "squaresUnite": 4,
+        "chevronLast": 1,
+        "trendingUp": 3
+      },
+      "boardShape": "plus"
+    },
+    {
+      "id": 229,
+      "starThresholds": [
+        81,
+        101,
+        107
+      ],
+      "counts": {
+        "triangle": 1,
+        "square": 3,
+        "cornerDownRight": 5,
+        "hourglass": 4,
+        "type": 1,
+        "squaresUnite": 4,
+        "chevronLast": 1,
+        "trendingUp": 1
+      },
+      "boardShape": "diagonal"
+    },
+    {
+      "id": 230,
+      "starThresholds": [
+        87,
+        105,
+        113
+      ],
+      "counts": {
+        "triangle": 3,
+        "cornerDownRight": 4,
+        "hourglass": 2,
+        "play": 3,
+        "squaresUnite": 1,
+        "sword": 4,
+        "chevronLast": 3,
+        "trendingUp": 1
+      },
+      "boardSize": 6
+    },
+    {
+      "id": 231,
+      "starThresholds": [
+        100,
+        114,
+        124
+      ],
+      "counts": {
+        "diamond": 4,
+        "cornerDownRight": 4,
+        "hourglass": 2,
+        "squaresUnite": 3,
+        "sword": 4,
+        "chartNoAxesColumnIncreasing": 4,
+        "trendingDown": 2
+      },
+      "boardShape": "hallway",
+      "rocks": [
+        {
+          "row": 2,
+          "col": 1,
+          "rockId": "bonus"
+        }
+      ]
+    },
+    {
+      "id": 232,
+      "starThresholds": [
+        6,
+        -2,
+        -6
+      ],
+      "counts": {
+        "circle": 1,
+        "heart": 2,
+        "triangle": 1,
+        "diamond": 2,
+        "moon": 6,
+        "hourglass": 3,
+        "chevronLast": 4,
+        "chartNoAxesColumnIncreasing": 1,
+        "trendingUp": 3,
+        "trendingDown": 1
+      },
+      "boardShape": "x",
+      "rocks": [
+        {
+          "row": 7,
+          "col": 5,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 233,
+      "starThresholds": [
+        100,
+        127,
+        138
+      ],
+      "counts": {
+        "circle": 3,
+        "spade": 3,
+        "diamond": 4,
+        "moon": 1,
+        "hourglass": 5,
+        "play": 1,
+        "type": 3,
+        "sword": 2,
+        "trendingUp": 1,
+        "trendingDown": 2
+      },
+      "boardShape": "cross",
+      "rocks": [
+        {
+          "row": 3,
+          "col": 2,
+          "rockId": "simple"
+        },
+        {
+          "row": 3,
+          "col": 6,
+          "rockId": "ice"
+        }
+      ]
+    },
+    {
+      "id": 234,
+      "starThresholds": [
+        133,
+        153,
+        161
+      ],
+      "counts": {
+        "heart": 4,
+        "triangle": 3,
+        "diamond": 2,
+        "square": 7,
+        "cornerDownRight": 1,
+        "play": 2,
+        "squaresUnite": 2,
+        "chevronLast": 3,
+        "chartNoAxesColumnIncreasing": 2
+      },
+      "boardShape": "diamond",
+      "rocks": [
+        {
+          "row": 6,
+          "col": 2,
+          "rockId": "mixed"
+        },
+        {
+          "row": 2,
+          "col": 6,
+          "rockId": "mixed"
+        }
+      ]
+    },
+    {
+      "id": 235,
+      "starThresholds": [
+        123,
+        141,
+        153
+      ],
+      "counts": {
+        "triangle": 1,
+        "diamond": 2,
+        "square": 2,
+        "moon": 1,
+        "hourglass": 4,
+        "squaresUnite": 4,
+        "sword": 7,
+        "chevronLast": 2,
+        "chartNoAxesColumnIncreasing": 5
+      },
+      "rocks": [
+        {
+          "row": 5,
+          "col": 5,
+          "rockId": "penalty"
+        },
+        {
+          "row": 1,
+          "col": 4,
+          "rockId": "simple"
+        },
+        {
+          "row": 3,
+          "col": 3,
+          "rockId": "penalty"
+        }
+      ]
+    },
+    {
+      "id": 236,
+      "starThresholds": [
+        -33,
+        -48,
+        -55
+      ],
+      "counts": {
+        "circle": 2,
+        "heart": 2,
+        "triangle": 2,
+        "spade": 1,
+        "moon": 1,
+        "squaresUnite": 5,
+        "sword": 5,
+        "chevronLast": 1,
+        "chartNoAxesColumnIncreasing": 4,
+        "trendingUp": 1
+      },
+      "boardShape": "hallway"
+    },
+    {
+      "id": 237,
+      "starThresholds": [
+        112,
+        131,
+        142
+      ],
+      "counts": {
+        "circle": 4,
+        "heart": 2,
+        "triangle": 2,
+        "spade": 5,
+        "diamond": 4,
+        "hourglass": 4,
+        "play": 2,
+        "sword": 2,
+        "trendingUp": 4,
+        "trendingDown": 1
+      },
+      "boardShape": "diagonal",
+      "rocks": [
+        {
+          "row": 2,
+          "col": 5,
+          "rockId": "mixed"
+        },
+        {
+          "row": 3,
+          "col": 1,
+          "rockId": "penalty"
+        },
+        {
+          "row": 6,
+          "col": 4,
+          "rockId": "bonus"
+        },
+        {
+          "row": 4,
+          "col": 5,
+          "rockId": "penalty"
+        }
+      ]
+    },
+    {
+      "id": 238,
+      "starThresholds": [
+        170,
+        191,
+        202
+      ],
+      "counts": {
+        "circle": 3,
+        "heart": 4,
+        "spade": 3,
+        "diamond": 2,
+        "square": 2,
+        "play": 5,
+        "squaresUnite": 3,
+        "sword": 1,
+        "chevronLast": 4,
+        "chartNoAxesColumnIncreasing": 4
+      },
+      "boardShape": "cross",
+      "rocks": [
+        {
+          "row": 2,
+          "col": 5,
+          "rockId": "penalty"
+        },
+        {
+          "row": 6,
+          "col": 5,
+          "rockId": "penalty"
+        },
+        {
+          "row": 4,
+          "col": 0,
+          "rockId": "simple"
+        },
+        {
+          "row": 2,
+          "col": 0,
+          "rockId": "twin"
+        },
+        {
+          "row": 5,
+          "col": 7,
+          "rockId": "twin"
+        }
+      ]
+    },
+    {
+      "id": 239,
+      "starThresholds": [
+        168,
+        187,
+        195
+      ],
+      "counts": {
+        "circle": 2,
+        "spade": 5,
+        "diamond": 4,
+        "square": 2,
+        "hourglass": 6,
+        "play": 2,
+        "squaresUnite": 4,
+        "chevronLast": 2,
+        "trendingUp": 6
+      },
+      "boardShape": "diamond",
+      "rocks": [
+        {
+          "row": 3,
+          "col": 1,
+          "rockId": "twin"
+        },
+        {
+          "row": 4,
+          "col": 6,
+          "rockId": "twin"
+        },
+        {
+          "row": 5,
+          "col": 4,
+          "rockId": "bonus"
+        },
+        {
+          "row": 2,
+          "col": 5,
+          "rockId": "twin"
+        },
+        {
+          "row": 5,
+          "col": 2,
+          "rockId": "twin"
+        },
+        {
+          "row": 3,
+          "col": 3,
+          "rockId": "simple"
+        },
+        {
+          "row": 6,
+          "col": 5,
+          "rockId": "penalty"
+        }
+      ]
+    },
+    {
+      "id": 240,
+      "starThresholds": [
+        123,
+        142,
+        151
+      ],
+      "counts": {
+        "circle": 2,
+        "triangle": 4,
+        "square": 2,
+        "cornerDownRight": 5,
+        "moon": 3,
+        "type": 6,
+        "sword": 2,
+        "chartNoAxesColumnIncreasing": 5,
+        "trendingUp": 2,
+        "trendingDown": 3
+      },
+      "boardShape": "x",
+      "rocks": [
+        {
+          "row": 1,
+          "col": 3,
+          "rockId": "penalty"
+        },
+        {
+          "row": 5,
+          "col": 6,
+          "rockId": "bonus"
+        },
+        {
+          "row": 3,
+          "col": 5,
+          "rockId": "penalty"
+        },
+        {
+          "row": 5,
+          "col": 1,
+          "rockId": "ice"
+        },
+        {
+          "row": 6,
+          "col": 2,
+          "rockId": "ice"
+        }
+      ]
+    },
+    {
+      "id": 241,
+      "starThresholds": [
+        83,
+        94,
+        102
+      ],
+      "counts": {
+        "diamond": 3,
+        "square": 1,
+        "cornerDownRight": 3,
+        "infinity": 5,
+        "play": 5,
+        "chevronLast": 1,
+        "trendingDown": 2
+      },
+      "boardShape": "plus"
+    },
+    {
+      "id": 242,
+      "starThresholds": [
+        77,
+        91,
+        96
+      ],
+      "counts": {
+        "circle": 3,
+        "spade": 3,
+        "diamond": 2,
+        "moon": 3,
+        "hourglass": 1,
+        "infinity": 3,
+        "sword": 2,
+        "chevronLast": 2,
+        "trendingUp": 1,
+        "trendingDown": 1
+      },
+      "boardShape": "diagonal"
+    },
+    {
+      "id": 243,
+      "starThresholds": [
+        115,
+        130,
+        137
+      ],
+      "counts": {
+        "circle": 3,
+        "square": 1,
+        "moon": 2,
+        "infinity": 2,
+        "play": 1,
+        "type": 2,
+        "squaresUnite": 2,
+        "chartNoAxesColumnIncreasing": 5,
+        "trendingUp": 3,
+        "trendingDown": 2
+      },
+      "boardShape": "cross",
+      "rocks": [
+        {
+          "row": 3,
+          "col": 4,
+          "rockId": "mixed"
+        }
+      ]
+    },
+    {
+      "id": 244,
+      "starThresholds": [
+        18,
+        6,
+        0
+      ],
+      "counts": {
+        "heart": 4,
+        "square": 1,
+        "cornerDownRight": 2,
+        "hourglass": 3,
+        "infinity": 4,
+        "play": 3,
+        "trendingUp": 3,
+        "trendingDown": 4
+      },
+      "boardShape": "hallway"
+    },
+    {
+      "id": 245,
+      "starThresholds": [
+        85,
+        96,
+        105
+      ],
+      "counts": {
+        "triangle": 2,
+        "spade": 3,
+        "diamond": 4,
+        "moon": 5,
+        "infinity": 3,
+        "play": 2,
+        "type": 1,
+        "trendingUp": 3,
+        "trendingDown": 2
+      },
+      "boardShape": "x",
+      "rocks": [
+        {
+          "row": 2,
+          "col": 6,
+          "rockId": "penalty"
+        },
+        {
+          "row": 1,
+          "col": 5,
+          "rockId": "twin"
+        },
+        {
+          "row": 6,
+          "col": 2,
+          "rockId": "twin"
+        }
+      ]
+    },
+    {
+      "id": 246,
+      "starThresholds": [
+        85,
+        95,
+        103
+      ],
+      "counts": {
+        "heart": 3,
+        "square": 4,
+        "cornerDownRight": 1,
+        "moon": 4,
+        "hourglass": 4,
+        "type": 2,
+        "squaresUnite": 2,
+        "chevronLast": 3,
+        "trendingUp": 3
+      },
+      "boardShape": "plus",
+      "rocks": [
+        {
+          "row": 3,
+          "col": 4,
+          "rockId": "simple"
+        },
+        {
+          "row": 2,
+          "col": 3,
+          "rockId": "mixed"
+        }
+      ]
+    },
+    {
+      "id": 247,
+      "starThresholds": [
+        121,
+        140,
+        152
+      ],
+      "counts": {
+        "circle": 2,
+        "triangle": 2,
+        "spade": 4,
+        "cornerDownRight": 4,
+        "infinity": 4,
+        "play": 4,
+        "squaresUnite": 1,
+        "sword": 3,
+        "chevronLast": 3,
+        "chartNoAxesColumnIncreasing": 1
+      },
+      "boardShape": "diamond",
+      "rocks": [
+        {
+          "row": 2,
+          "col": 1,
+          "rockId": "twin"
+        },
+        {
+          "row": 5,
+          "col": 6,
+          "rockId": "twin"
+        },
+        {
+          "row": 5,
+          "col": 1,
+          "rockId": "ice"
+        },
+        {
+          "row": 6,
+          "col": 3,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 248,
+      "starThresholds": [
+        40,
+        29,
+        25
+      ],
+      "counts": {
+        "circle": 1,
+        "triangle": 1,
+        "spade": 1,
+        "diamond": 3,
+        "cornerDownRight": 1,
+        "moon": 2,
+        "infinity": 3,
+        "squaresUnite": 1,
+        "chevronLast": 3
+      },
+      "boardSize": 4
+    },
+    {
+      "id": 249,
+      "starThresholds": [
+        74,
+        93,
+        107
+      ],
+      "counts": {
+        "circle": 1,
+        "heart": 3,
+        "triangle": 3,
+        "spade": 2,
+        "square": 2,
+        "hourglass": 2,
+        "play": 4,
+        "chartNoAxesColumnIncreasing": 1,
+        "trendingUp": 3,
+        "trendingDown": 3
+      },
+      "boardShape": "hallway"
+    },
+    {
+      "id": 250,
+      "starThresholds": [
+        106,
+        119,
+        129
+      ],
+      "counts": {
+        "triangle": 3,
+        "spade": 4,
+        "diamond": 2,
+        "cornerDownRight": 2,
+        "moon": 5,
+        "infinity": 4,
+        "type": 5,
+        "squaresUnite": 2,
+        "chevronLast": 1,
+        "trendingUp": 3
+      },
+      "boardShape": "diagonal",
+      "rocks": [
+        {
+          "row": 3,
+          "col": 6,
+          "rockId": "mixed"
+        },
+        {
+          "row": 5,
+          "col": 4,
+          "rockId": "simple"
+        },
+        {
+          "row": 0,
+          "col": 6,
+          "rockId": "twin"
+        },
+        {
+          "row": 7,
+          "col": 1,
+          "rockId": "twin"
+        },
+        {
+          "row": 6,
+          "col": 3,
+          "rockId": "simple"
+        }
+      ]
+    },
+    {
+      "id": 251,
+      "starThresholds": [
+        198,
+        231,
+        246
+      ],
+      "counts": {
+        "circle": 3,
+        "triangle": 5,
+        "square": 4,
+        "moon": 2,
+        "hourglass": 5,
+        "type": 4,
+        "squaresUnite": 2,
+        "chevronLast": 2,
+        "chartNoAxesColumnIncreasing": 3,
+        "trendingUp": 3
+      },
+      "boardShape": "cross",
+      "rocks": [
+        {
+          "row": 5,
+          "col": 1,
+          "rockId": "bonus"
+        },
+        {
+          "row": 1,
+          "col": 4,
+          "rockId": "penalty"
+        },
+        {
+          "row": 4,
+          "col": 5,
+          "rockId": "mixed"
+        },
+        {
+          "row": 6,
+          "col": 4,
+          "rockId": "ice"
+        },
+        {
+          "row": 3,
+          "col": 6,
+          "rockId": "ice"
+        }
+      ]
+    },
+    {
+      "id": 252,
+      "starThresholds": [
+        111,
+        133,
+        146
+      ],
+      "counts": {
+        "circle": 2,
+        "heart": 4,
+        "triangle": 4,
+        "spade": 3,
+        "moon": 3,
+        "hourglass": 4,
+        "type": 2,
+        "squaresUnite": 5,
+        "sword": 5,
+        "trendingDown": 2
+      },
+      "boardShape": "diamond",
+      "rocks": [
+        {
+          "row": 2,
+          "col": 5,
+          "rockId": "mixed"
+        },
+        {
+          "row": 2,
+          "col": 2,
+          "rockId": "twin"
+        },
+        {
+          "row": 5,
+          "col": 5,
+          "rockId": "twin"
+        },
+        {
+          "row": 3,
+          "col": 4,
+          "rockId": "simple"
+        },
+        {
+          "row": 1,
+          "col": 4,
+          "rockId": "ice"
+        },
+        {
+          "row": 3,
+          "col": 1,
+          "rockId": "penalty"
+        }
+      ]
+    }
+  ]
+}
