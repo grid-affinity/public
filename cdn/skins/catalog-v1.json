@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "skins": [
+    {
+      "id": "default",
+      "kind": "shape",
+      "nameKey": "skins.default",
+      "purchase": "stars",
+      "costStars": 0,
+      "availableUntil": null,
+      "iapProductId": null,
+      "tokens": {
+        "fill": "#8B7355",
+        "border": "#D9D2C2"
+      }
+    },
+    {
+      "id": "default-board",
+      "kind": "board",
+      "nameKey": "skins.defaultBoard",
+      "purchase": "stars",
+      "costStars": 0,
+      "availableUntil": null,
+      "iapProductId": null,
+      "tokens": {
+        "cellEmpty": "#E6E1D6",
+        "border": "#D9D2C2"
+      }
+    },
+    {
+      "id": "ink",
+      "kind": "shape",
+      "nameKey": "skins.ink",
+      "purchase": "stars",
+      "costStars": 40,
+      "availableUntil": null,
+      "iapProductId": null,
+      "tokens": {
+        "fill": "#1C1C1A",
+        "border": "#8A857A"
+      }
+    },
+    {
+      "id": "coral",
+      "kind": "shape",
+      "nameKey": "skins.coral",
+      "purchase": "stars",
+      "costStars": 40,
+      "availableUntil": null,
+      "iapProductId": null,
+      "tokens": {
+        "fill": "#C0453A",
+        "border": "#E8B4AE"
+      }
+    },
+    {
+      "id": "moss",
+      "kind": "shape",
+      "nameKey": "skins.moss",
+      "purchase": "stars",
+      "costStars": 40,
+      "availableUntil": null,
+      "iapProductId": null,
+      "tokens": {
+        "fill": "#2F7D4A",
+        "border": "#A8D4B5"
+      }
+    }
+  ]
+}
