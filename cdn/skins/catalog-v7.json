@@ -1,0 +1,785 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 7,
+  "skins": [
+    {
+      "id": "default",
+      "kind": "shape",
+      "nameKey": "skins.default",
+      "purchase": "stars",
+      "costStars": 0,
+      "availableUntil": null,
+      "iapProductId": null,
+      "iapPriceLabel": null,
+      "tokens": {
+        "fill": "#8B7355",
+        "border": "#D9D2C2"
+      }
+    },
+    {
+      "id": "default-board",
+      "kind": "board",
+      "nameKey": "skins.defaultBoard",
+      "purchase": "stars",
+      "costStars": 0,
+      "availableUntil": null,
+      "iapProductId": null,
+      "iapPriceLabel": null,
+      "tokens": {
+        "cellEmpty": "#E6E1D6",
+        "border": "#D9D2C2"
+      }
+    },
+    {
+      "id": "ink",
+      "kind": "shape",
+      "nameKey": "skins.ink",
+      "purchase": "stars",
+      "costStars": 40,
+      "availableUntil": null,
+      "iapProductId": null,
+      "iapPriceLabel": null,
+      "tokens": {
+        "fill": "#1C1C1A",
+        "border": "#8A857A"
+      }
+    },
+    {
+      "id": "coral",
+      "kind": "shape",
+      "nameKey": "skins.coral",
+      "purchase": "stars",
+      "costStars": 40,
+      "availableUntil": null,
+      "iapProductId": null,
+      "iapPriceLabel": null,
+      "tokens": {
+        "fill": "#C0453A",
+        "border": "#E8B4AE"
+      }
+    },
+    {
+      "id": "moss",
+      "kind": "shape",
+      "nameKey": "skins.moss",
+      "purchase": "stars",
+      "costStars": 40,
+      "availableUntil": null,
+      "iapProductId": null,
+      "iapPriceLabel": null,
+      "tokens": {
+        "fill": "#2F7D4A",
+        "border": "#A8D4B5"
+      }
+    },
+    {
+      "id": "gold-ink",
+      "kind": "shape",
+      "nameKey": "skins.goldInk",
+      "purchase": "stars",
+      "costStars": 60,
+      "availableUntil": null,
+      "iapProductId": null,
+      "iapPriceLabel": null,
+      "tokens": {
+        "fill": "#D4AF37",
+        "border": "#1C1C1A"
+      }
+    },
+    {
+      "id": "silver",
+      "kind": "shape",
+      "nameKey": "skins.silver",
+      "purchase": "stars",
+      "costStars": 50,
+      "availableUntil": null,
+      "iapProductId": null,
+      "iapPriceLabel": null,
+      "tokens": {
+        "fill": "#A8B0B8",
+        "border": "#3A3F45"
+      }
+    },
+    {
+      "id": "ivory",
+      "kind": "shape",
+      "nameKey": "skins.ivory",
+      "purchase": "stars",
+      "costStars": 45,
+      "availableUntil": null,
+      "iapProductId": null,
+      "iapPriceLabel": null,
+      "tokens": {
+        "fill": "#F3E6C8",
+        "border": "#8B7355"
+      }
+    },
+    {
+      "id": "plum",
+      "kind": "shape",
+      "nameKey": "skins.plum",
+      "purchase": "stars",
+      "costStars": 45,
+      "availableUntil": null,
+      "iapProductId": null,
+      "iapPriceLabel": null,
+      "tokens": {
+        "fill": "#6B3A6D",
+        "border": "#D4B0D6"
+      }
+    },
+    {
+      "id": "slate",
+      "kind": "shape",
+      "nameKey": "skins.slate",
+      "purchase": "stars",
+      "costStars": 40,
+      "availableUntil": null,
+      "iapProductId": null,
+      "iapPriceLabel": null,
+      "tokens": {
+        "fill": "#4A5E73",
+        "border": "#B7C5D4"
+      }
+    },
+    {
+      "id": "rust",
+      "kind": "shape",
+      "nameKey": "skins.rust",
+      "purchase": "stars",
+      "costStars": 50,
+      "availableUntil": null,
+      "iapProductId": null,
+      "iapPriceLabel": null,
+      "tokens": {
+        "fill": "#A84B2F",
+        "border": "#1C1C1A"
+      }
+    },
+    {
+      "id": "navy",
+      "kind": "shape",
+      "nameKey": "skins.navy",
+      "purchase": "stars",
+      "costStars": 40,
+      "availableUntil": null,
+      "iapProductId": null,
+      "iapPriceLabel": null,
+      "tokens": {
+        "fill": "#1E3A5F",
+        "border": "#8FA8C4"
+      }
+    },
+    {
+      "id": "blush",
+      "kind": "shape",
+      "nameKey": "skins.blush",
+      "purchase": "stars",
+      "costStars": 40,
+      "availableUntil": null,
+      "iapProductId": null,
+      "iapPriceLabel": null,
+      "tokens": {
+        "fill": "#D4A5A5",
+        "border": "#8B5E5E"
+      }
+    },
+    {
+      "id": "sage",
+      "kind": "shape",
+      "nameKey": "skins.sage",
+      "purchase": "stars",
+      "costStars": 40,
+      "availableUntil": null,
+      "iapProductId": null,
+      "iapPriceLabel": null,
+      "tokens": {
+        "fill": "#7A8F6E",
+        "border": "#3D4A36"
+      }
+    },
+    {
+      "id": "sand",
+      "kind": "shape",
+      "nameKey": "skins.sand",
+      "purchase": "stars",
+      "costStars": 45,
+      "availableUntil": null,
+      "iapProductId": null,
+      "iapPriceLabel": null,
+      "tokens": {
+        "fill": "#C4A882",
+        "border": "#6B5344"
+      }
+    },
+    {
+      "id": "teal",
+      "kind": "shape",
+      "nameKey": "skins.teal",
+      "purchase": "stars",
+      "costStars": 45,
+      "availableUntil": null,
+      "iapProductId": null,
+      "iapPriceLabel": null,
+      "tokens": {
+        "fill": "#2A6F6F",
+        "border": "#A8D4D4"
+      }
+    },
+    {
+      "id": "wine",
+      "kind": "shape",
+      "nameKey": "skins.wine",
+      "purchase": "stars",
+      "costStars": 50,
+      "availableUntil": null,
+      "iapProductId": null,
+      "iapPriceLabel": null,
+      "tokens": {
+        "fill": "#7A2E3E",
+        "border": "#E8B4BE"
+      }
+    },
+    {
+      "id": "olive",
+      "kind": "shape",
+      "nameKey": "skins.olive",
+      "purchase": "stars",
+      "costStars": 45,
+      "availableUntil": null,
+      "iapProductId": null,
+      "iapPriceLabel": null,
+      "tokens": {
+        "fill": "#6B6B3A",
+        "border": "#D4D4A8"
+      }
+    },
+    {
+      "id": "clay",
+      "kind": "shape",
+      "nameKey": "skins.clay",
+      "purchase": "stars",
+      "costStars": 45,
+      "availableUntil": null,
+      "iapProductId": null,
+      "iapPriceLabel": null,
+      "tokens": {
+        "fill": "#B87A5A",
+        "border": "#5A3A28"
+      }
+    },
+    {
+      "id": "sunset",
+      "kind": "shape",
+      "nameKey": "skins.sunset",
+      "purchase": "iap",
+      "costStars": 0,
+      "availableUntil": null,
+      "iapProductId": "com.gridaffinity.skin.sunset",
+      "iapPriceLabel": "$0.99",
+      "tokens": {
+        "fill": {
+          "type": "linear",
+          "colors": [
+            "#FF6B4A",
+            "#F6C945",
+            "#C0453A"
+          ],
+          "start": {
+            "x": 0,
+            "y": 0
+          },
+          "end": {
+            "x": 1,
+            "y": 1
+          }
+        },
+        "border": "#5A2A22"
+      }
+    },
+    {
+      "id": "ocean",
+      "kind": "shape",
+      "nameKey": "skins.ocean",
+      "purchase": "iap",
+      "costStars": 0,
+      "availableUntil": null,
+      "iapProductId": "com.gridaffinity.skin.ocean",
+      "iapPriceLabel": "$0.99",
+      "tokens": {
+        "fill": {
+          "type": "linear",
+          "colors": [
+            "#1B6CA8",
+            "#3A9BB8",
+            "#7DD3C0"
+          ],
+          "start": {
+            "x": 0,
+            "y": 0
+          },
+          "end": {
+            "x": 0,
+            "y": 1
+          }
+        },
+        "border": "#0E3A52"
+      }
+    },
+    {
+      "id": "aurora",
+      "kind": "shape",
+      "nameKey": "skins.aurora",
+      "purchase": "iap",
+      "costStars": 0,
+      "availableUntil": null,
+      "iapProductId": "com.gridaffinity.skin.aurora",
+      "iapPriceLabel": "$0.99",
+      "tokens": {
+        "fill": {
+          "type": "linear",
+          "colors": [
+            "#6B5BFF",
+            "#2F7D4A",
+            "#F6C945"
+          ],
+          "start": {
+            "x": 0,
+            "y": 0
+          },
+          "end": {
+            "x": 1,
+            "y": 1
+          }
+        },
+        "border": "#1C1C1A"
+      }
+    },
+    {
+      "id": "ember",
+      "kind": "shape",
+      "nameKey": "skins.ember",
+      "purchase": "iap",
+      "costStars": 0,
+      "availableUntil": null,
+      "iapProductId": "com.gridaffinity.skin.ember",
+      "iapPriceLabel": "$0.99",
+      "tokens": {
+        "fill": {
+          "type": "linear",
+          "colors": [
+            "#7A1F1F",
+            "#E85D04",
+            "#FFBA08"
+          ],
+          "start": {
+            "x": 0,
+            "y": 1
+          },
+          "end": {
+            "x": 1,
+            "y": 0
+          }
+        },
+        "border": "#2A0E0E"
+      }
+    },
+    {
+      "id": "mist",
+      "kind": "shape",
+      "nameKey": "skins.mist",
+      "purchase": "iap",
+      "costStars": 0,
+      "availableUntil": null,
+      "iapProductId": "com.gridaffinity.skin.mist",
+      "iapPriceLabel": "$0.99",
+      "tokens": {
+        "fill": {
+          "type": "linear",
+          "colors": [
+            "#C5B4E3",
+            "#E8EEF5",
+            "#9BB7D4"
+          ],
+          "start": {
+            "x": 0,
+            "y": 0
+          },
+          "end": {
+            "x": 1,
+            "y": 0
+          }
+        },
+        "border": "#5A5470"
+      }
+    },
+    {
+      "id": "forest",
+      "kind": "shape",
+      "nameKey": "skins.forest",
+      "purchase": "iap",
+      "costStars": 0,
+      "availableUntil": null,
+      "iapProductId": "com.gridaffinity.skin.forest",
+      "iapPriceLabel": "$0.99",
+      "tokens": {
+        "fill": {
+          "type": "linear",
+          "colors": [
+            "#1B4332",
+            "#40916C",
+            "#95D5B2"
+          ],
+          "start": {
+            "x": 0,
+            "y": 0
+          },
+          "end": {
+            "x": 0,
+            "y": 1
+          }
+        },
+        "border": "#081C15"
+      }
+    },
+    {
+      "id": "twilight",
+      "kind": "shape",
+      "nameKey": "skins.twilight",
+      "purchase": "iap",
+      "costStars": 0,
+      "availableUntil": null,
+      "iapProductId": "com.gridaffinity.skin.twilight",
+      "iapPriceLabel": "$0.99",
+      "tokens": {
+        "fill": {
+          "type": "linear",
+          "colors": [
+            "#240046",
+            "#9D4EDD",
+            "#FF6BCB"
+          ],
+          "start": {
+            "x": 0,
+            "y": 0
+          },
+          "end": {
+            "x": 1,
+            "y": 1
+          }
+        },
+        "border": "#100020"
+      }
+    },
+    {
+      "id": "citrus",
+      "kind": "shape",
+      "nameKey": "skins.citrus",
+      "purchase": "iap",
+      "costStars": 0,
+      "availableUntil": null,
+      "iapProductId": "com.gridaffinity.skin.citrus",
+      "iapPriceLabel": "$0.99",
+      "tokens": {
+        "fill": {
+          "type": "linear",
+          "colors": [
+            "#F4D35E",
+            "#90BE6D",
+            "#43AA8B"
+          ],
+          "start": {
+            "x": 0,
+            "y": 0
+          },
+          "end": {
+            "x": 1,
+            "y": 0
+          }
+        },
+        "border": "#3D4A2A"
+      }
+    },
+    {
+      "id": "magma",
+      "kind": "shape",
+      "nameKey": "skins.magma",
+      "purchase": "iap",
+      "costStars": 0,
+      "availableUntil": null,
+      "iapProductId": "com.gridaffinity.skin.magma",
+      "iapPriceLabel": "$0.99",
+      "tokens": {
+        "fill": {
+          "type": "linear",
+          "colors": [
+            "#1A0505",
+            "#9B2226",
+            "#F48C06"
+          ],
+          "start": {
+            "x": 0.5,
+            "y": 0
+          },
+          "end": {
+            "x": 0.5,
+            "y": 1
+          }
+        },
+        "border": "#0A0000"
+      }
+    },
+    {
+      "id": "board-cream",
+      "kind": "board",
+      "nameKey": "skins.boardCream",
+      "purchase": "stars",
+      "costStars": 40,
+      "availableUntil": null,
+      "iapProductId": null,
+      "iapPriceLabel": null,
+      "tokens": {
+        "cellEmpty": "#E6E1D6",
+        "border": "#D9D2C2"
+      }
+    },
+    {
+      "id": "board-stone",
+      "kind": "board",
+      "nameKey": "skins.boardStone",
+      "purchase": "stars",
+      "costStars": 40,
+      "availableUntil": null,
+      "iapProductId": null,
+      "iapPriceLabel": null,
+      "tokens": {
+        "cellEmpty": "#C8C2B6",
+        "border": "#8A857A"
+      }
+    },
+    {
+      "id": "board-sage",
+      "kind": "board",
+      "nameKey": "skins.boardSage",
+      "purchase": "stars",
+      "costStars": 40,
+      "availableUntil": null,
+      "iapProductId": null,
+      "iapPriceLabel": null,
+      "tokens": {
+        "cellEmpty": "#D5E0D0",
+        "border": "#7A8F6E"
+      }
+    },
+    {
+      "id": "board-blush",
+      "kind": "board",
+      "nameKey": "skins.boardBlush",
+      "purchase": "stars",
+      "costStars": 40,
+      "availableUntil": null,
+      "iapProductId": null,
+      "iapPriceLabel": null,
+      "tokens": {
+        "cellEmpty": "#F0E0DC",
+        "border": "#C0453A"
+      }
+    },
+    {
+      "id": "board-slate",
+      "kind": "board",
+      "nameKey": "skins.boardSlate",
+      "purchase": "stars",
+      "costStars": 40,
+      "availableUntil": null,
+      "iapProductId": null,
+      "iapPriceLabel": null,
+      "tokens": {
+        "cellEmpty": "#D0D8E0",
+        "border": "#4A5E73"
+      }
+    },
+    {
+      "id": "board-sand",
+      "kind": "board",
+      "nameKey": "skins.boardSand",
+      "purchase": "stars",
+      "costStars": 40,
+      "availableUntil": null,
+      "iapProductId": null,
+      "iapPriceLabel": null,
+      "tokens": {
+        "cellEmpty": "#E8DCC8",
+        "border": "#8B7355"
+      }
+    },
+    {
+      "id": "board-ink",
+      "kind": "board",
+      "nameKey": "skins.boardInk",
+      "purchase": "stars",
+      "costStars": 45,
+      "availableUntil": null,
+      "iapProductId": null,
+      "iapPriceLabel": null,
+      "tokens": {
+        "cellEmpty": "#3A3A38",
+        "border": "#1C1C1A"
+      }
+    },
+    {
+      "id": "board-moss",
+      "kind": "board",
+      "nameKey": "skins.boardMoss",
+      "purchase": "stars",
+      "costStars": 45,
+      "availableUntil": null,
+      "iapProductId": null,
+      "iapPriceLabel": null,
+      "tokens": {
+        "cellEmpty": "#C5D9C8",
+        "border": "#2F7D4A"
+      }
+    },
+    {
+      "id": "board-space",
+      "kind": "board",
+      "nameKey": "skins.boardSpace",
+      "purchase": "iap",
+      "costStars": 0,
+      "availableUntil": null,
+      "iapProductId": "com.gridaffinity.skin.board.space",
+      "iapPriceLabel": "$0.99",
+      "tokens": {
+        "imageId": "space",
+        "opacity": 0.85
+      }
+    },
+    {
+      "id": "board-beach",
+      "kind": "board",
+      "nameKey": "skins.boardBeach",
+      "purchase": "iap",
+      "costStars": 0,
+      "availableUntil": null,
+      "iapProductId": "com.gridaffinity.skin.board.beach",
+      "iapPriceLabel": "$0.99",
+      "tokens": {
+        "imageId": "beach",
+        "opacity": 0.85
+      }
+    },
+    {
+      "id": "board-leaves",
+      "kind": "board",
+      "nameKey": "skins.boardLeaves",
+      "purchase": "iap",
+      "costStars": 0,
+      "availableUntil": null,
+      "iapProductId": "com.gridaffinity.skin.board.leaves",
+      "iapPriceLabel": "$0.99",
+      "tokens": {
+        "imageId": "leaves",
+        "opacity": 0.85
+      }
+    },
+    {
+      "id": "board-soccer",
+      "kind": "board",
+      "nameKey": "skins.boardSoccer",
+      "purchase": "iap",
+      "costStars": 0,
+      "availableUntil": null,
+      "iapProductId": "com.gridaffinity.skin.board.soccer",
+      "iapPriceLabel": "$0.99",
+      "tokens": {
+        "imageId": "soccer",
+        "opacity": 0.85
+      }
+    },
+    {
+      "id": "board-lava",
+      "kind": "board",
+      "nameKey": "skins.boardLava",
+      "purchase": "iap",
+      "costStars": 0,
+      "availableUntil": null,
+      "iapProductId": "com.gridaffinity.skin.board.lava",
+      "iapPriceLabel": "$0.99",
+      "tokens": {
+        "imageId": "lava",
+        "opacity": 0.85
+      }
+    },
+    {
+      "id": "board-ice",
+      "kind": "board",
+      "nameKey": "skins.boardIce",
+      "purchase": "iap",
+      "costStars": 0,
+      "availableUntil": null,
+      "iapProductId": "com.gridaffinity.skin.board.ice",
+      "iapPriceLabel": "$0.99",
+      "tokens": {
+        "imageId": "ice",
+        "opacity": 0.85
+      }
+    },
+    {
+      "id": "board-ocean",
+      "kind": "board",
+      "nameKey": "skins.boardOcean",
+      "purchase": "iap",
+      "costStars": 0,
+      "availableUntil": null,
+      "iapProductId": "com.gridaffinity.skin.board.ocean",
+      "iapPriceLabel": "$0.99",
+      "tokens": {
+        "imageId": "ocean",
+        "opacity": 0.85
+      }
+    },
+    {
+      "id": "board-desert",
+      "kind": "board",
+      "nameKey": "skins.boardDesert",
+      "purchase": "iap",
+      "costStars": 0,
+      "availableUntil": null,
+      "iapProductId": "com.gridaffinity.skin.board.desert",
+      "iapPriceLabel": "$0.99",
+      "tokens": {
+        "imageId": "desert",
+        "opacity": 0.85
+      }
+    },
+    {
+      "id": "board-city",
+      "kind": "board",
+      "nameKey": "skins.boardCity",
+      "purchase": "iap",
+      "costStars": 0,
+      "availableUntil": null,
+      "iapProductId": "com.gridaffinity.skin.board.city",
+      "iapPriceLabel": "$0.99",
+      "tokens": {
+        "imageId": "city",
+        "opacity": 0.85
+      }
+    },
+    {
+      "id": "board-sky",
+      "kind": "board",
+      "nameKey": "skins.boardSky",
+      "purchase": "iap",
+      "costStars": 0,
+      "availableUntil": null,
+      "iapProductId": "com.gridaffinity.skin.board.sky",
+      "iapPriceLabel": "$0.99",
+      "tokens": {
+        "imageId": "sky",
+        "opacity": 0.85
+      }
+    }
+  ]
+}
